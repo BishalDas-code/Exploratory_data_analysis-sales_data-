@@ -1,0 +1,601 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2017-100001,2016-08-16,2016-08-16,First Class,CUST-5012,Consumer,United States,Chicago,Illinois,23434,Central,PROD-181520,Technology,Phones,Cordless Office Phone,25.82,1,0.1,-1.56
+CA-2018-100002,2016-02-24,2016-02-27,Same Day,CUST-4611,Corporate,United States,San Jose,California,46463,West,PROD-472516,Furniture,Chairs,Mesh Task Chair,991.8,4,0.1,-70.23
+CA-2016-100003,2017-11-20,2017-11-21,Second Class,CUST-7224,Consumer,United States,Philadelphia,Pennsylvania,55082,East,PROD-245086,Technology,Machines,All-in-One Printer,2221.46,6,0.0,852.75
+CA-2017-100004,2018-02-14,2018-02-15,First Class,CUST-6925,Home Office,United States,Houston,Texas,19116,South,PROD-244766,Furniture,Chairs,Executive Leather Chair,684.98,1,0.0,19.23
+CA-2018-100005,2018-07-17,2018-07-22,Standard Class,CUST-7065,Corporate,United States,Houston,Texas,97841,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,2294.13,5,0.1,-233.91
+CA-2016-100006,2018-02-16,2018-02-20,Standard Class,CUST-6313,Consumer,United States,Houston,Texas,14207,South,PROD-316180,Office Supplies,Storage,Mobile File Cart,138.19,1,0.2,-10.01
+CA-2017-100007,2018-10-19,2018-10-25,Same Day,CUST-3340,Corporate,United States,Chicago,Illinois,42325,Central,PROD-598119,Technology,Machines,Inkjet Printer,1451.36,5,0.1,578.22
+CA-2018-100008,2016-10-10,2016-10-17,Second Class,CUST-1771,Consumer,United States,Chicago,Illinois,92240,Central,PROD-728041,Furniture,Furnishings,Picture Frame Set,217.62,1,0.3,25.56
+CA-2016-100009,2016-01-24,2016-01-25,First Class,CUST-6573,Consumer,United States,Phoenix,Arizona,66985,West,PROD-266564,Furniture,Furnishings,Desk Lamp,3366.25,6,0.2,1289.72
+CA-2017-100010,2016-12-31,2017-01-01,First Class,CUST-9317,Home Office,United States,Houston,Texas,30032,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,1313.52,5,0.0,-174.54
+CA-2018-100011,2018-01-13,2018-01-17,Standard Class,CUST-1949,Consumer,United States,San Jose,California,20322,West,PROD-266564,Furniture,Furnishings,Desk Lamp,2762.27,5,0.1,540.99
+CA-2016-100012,2016-12-04,2016-12-08,Same Day,CUST-4470,Home Office,United States,Houston,Texas,50857,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,2016.54,4,0.3,-256.9
+CA-2017-100013,2017-04-05,2017-04-06,First Class,CUST-1344,Home Office,United States,Dallas,Texas,40161,South,PROD-913145,Technology,Accessories,Wireless Mouse,567.73,1,0.0,-35.56
+CA-2018-100014,2016-03-05,2016-03-10,Second Class,CUST-9423,Consumer,United States,Phoenix,Arizona,97684,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,3144.68,6,0.3,-170.45
+CA-2016-100015,2018-08-26,2018-09-01,Standard Class,CUST-2545,Consumer,United States,San Antonio,Texas,56438,South,PROD-316180,Office Supplies,Storage,Mobile File Cart,288.4,6,0.0,-47.19
+CA-2017-100016,2017-11-25,2017-11-26,Standard Class,CUST-4139,Consumer,United States,Dallas,Texas,68800,South,PROD-266564,Furniture,Furnishings,Desk Lamp,1118.37,3,0.0,73.68
+CA-2018-100017,2016-07-19,2016-07-19,Second Class,CUST-2528,Consumer,United States,Chicago,Illinois,63269,Central,PROD-943888,Office Supplies,Storage,Plastic Storage Box,2600.79,4,0.1,71.22
+CA-2016-100018,2018-03-10,2018-03-14,Same Day,CUST-5673,Corporate,United States,Dallas,Texas,96752,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,481.77,2,0.0,71.07
+CA-2017-100019,2016-05-04,2016-05-09,Second Class,CUST-1821,Home Office,United States,San Diego,California,75909,West,PROD-913145,Technology,Accessories,Wireless Mouse,309.1,5,0.1,-49.11
+CA-2018-100020,2016-05-19,2016-05-22,Same Day,CUST-2964,Home Office,United States,Houston,Texas,85880,South,PROD-797682,Technology,Phones,Smartphone X 128GB,1688.36,4,0.2,609.2
+CA-2016-100021,2017-02-22,2017-02-27,Standard Class,CUST-5351,Corporate,United States,Chicago,Illinois,98039,Central,PROD-598119,Technology,Machines,Inkjet Printer,2230.71,3,0.0,-433.67
+CA-2017-100022,2016-07-23,2016-07-24,Standard Class,CUST-9288,Corporate,United States,Chicago,Illinois,55745,Central,PROD-244766,Furniture,Chairs,Executive Leather Chair,312.98,3,0.2,52.27
+CA-2018-100023,2018-12-19,2018-12-19,First Class,CUST-2697,Consumer,United States,Phoenix,Arizona,25129,West,PROD-044240,Furniture,Storage,Plastic Storage Box,618.29,3,0.1,142.56
+CA-2016-100024,2017-02-20,2017-02-24,Same Day,CUST-5114,Consumer,United States,Los Angeles,California,93136,West,PROD-389073,Office Supplies,Art,Dry Erase Markers,243.16,1,0.1,44.32
+CA-2017-100025,2017-06-20,2017-06-22,Same Day,CUST-8007,Home Office,United States,New York,New York,24663,East,PROD-472516,Furniture,Chairs,Mesh Task Chair,601.65,1,0.1,34.82
+CA-2018-100026,2016-03-26,2016-03-30,First Class,CUST-1653,Corporate,United States,Houston,Texas,99399,South,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,2477.6,5,0.3,952.15
+CA-2016-100027,2016-11-12,2016-11-15,Standard Class,CUST-3900,Corporate,United States,New York,New York,33509,East,PROD-598119,Technology,Machines,Inkjet Printer,3736.43,6,0.1,-149.15
+CA-2017-100028,2016-08-09,2016-08-15,Second Class,CUST-8711,Consumer,United States,Houston,Texas,70332,South,PROD-389073,Office Supplies,Art,Dry Erase Markers,42.86,2,0.1,1.67
+CA-2018-100029,2017-07-24,2017-07-25,First Class,CUST-6753,Home Office,United States,Dallas,Texas,62386,South,PROD-245086,Technology,Machines,All-in-One Printer,561.8,1,0.2,-52.17
+CA-2016-100030,2017-06-27,2017-06-27,Second Class,CUST-8119,Corporate,United States,Philadelphia,Pennsylvania,67199,East,PROD-181520,Technology,Phones,Cordless Office Phone,780.56,5,0.0,175.84
+CA-2017-100031,2016-01-04,2016-01-07,First Class,CUST-8066,Consumer,United States,Philadelphia,Pennsylvania,91678,East,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,3458.58,6,0.2,692.19
+CA-2018-100032,2017-10-30,2017-11-05,First Class,CUST-3085,Consumer,United States,San Antonio,Texas,97153,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1601.04,5,0.3,206.15
+CA-2016-100033,2016-01-01,2016-01-05,First Class,CUST-4443,Corporate,United States,San Jose,California,89516,West,PROD-598119,Technology,Machines,Inkjet Printer,1283.46,4,0.1,136.95
+CA-2017-100034,2016-12-13,2016-12-14,First Class,CUST-9445,Home Office,United States,San Jose,California,53933,West,PROD-472516,Furniture,Chairs,Mesh Task Chair,495.69,3,0.1,-55.31
+CA-2018-100035,2016-04-04,2016-04-07,Same Day,CUST-2193,Corporate,United States,San Antonio,Texas,92544,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,1161.81,4,0.1,224.97
+CA-2016-100036,2016-01-12,2016-01-13,Same Day,CUST-4585,Consumer,United States,Dallas,Texas,70889,South,PROD-044240,Furniture,Storage,Plastic Storage Box,257.52,1,0.3,51.64
+CA-2017-100037,2017-10-11,2017-10-18,Same Day,CUST-9976,Corporate,United States,Chicago,Illinois,72216,Central,PROD-389073,Office Supplies,Art,Dry Erase Markers,946.94,6,0.3,166.71
+CA-2018-100038,2017-07-16,2017-07-23,Second Class,CUST-5681,Consumer,United States,Phoenix,Arizona,54020,West,PROD-173509,Office Supplies,Appliances,Office Shredder,174.87,2,0.3,37.84
+CA-2016-100039,2017-03-14,2017-03-15,Same Day,CUST-7678,Corporate,United States,Dallas,Texas,71069,South,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,1258.54,4,0.0,395.23
+CA-2017-100040,2018-02-18,2018-02-25,Second Class,CUST-6763,Corporate,United States,San Antonio,Texas,64921,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,310.78,2,0.3,-56.74
+CA-2018-100041,2017-11-19,2017-11-25,Standard Class,CUST-8657,Consumer,United States,San Jose,California,80008,West,PROD-728041,Furniture,Furnishings,Picture Frame Set,2660.42,5,0.0,493.91
+CA-2016-100042,2016-10-04,2016-10-11,Standard Class,CUST-1823,Corporate,United States,San Antonio,Texas,52906,South,PROD-293155,Furniture,Furnishings,Wall Clock,1281.37,3,0.3,-42.34
+CA-2017-100043,2018-05-13,2018-05-17,Second Class,CUST-8705,Consumer,United States,Dallas,Texas,16826,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,222.03,6,0.0,82.1
+CA-2018-100044,2017-02-12,2017-02-12,Standard Class,CUST-4908,Consumer,United States,San Diego,California,97747,West,PROD-044240,Furniture,Storage,Plastic Storage Box,1795.44,4,0.2,-178.33
+CA-2016-100045,2016-08-22,2016-08-24,First Class,CUST-2771,Home Office,United States,New York,New York,50888,East,PROD-844518,Technology,Copiers,Commercial Copier 3000,878.43,6,0.1,-121.98
+CA-2017-100046,2017-09-09,2017-09-10,Second Class,CUST-6688,Home Office,United States,San Antonio,Texas,96706,South,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,476.29,1,0.3,-65.1
+CA-2018-100047,2018-01-11,2018-01-18,Standard Class,CUST-8135,Consumer,United States,Dallas,Texas,95256,South,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,1124.1,4,0.2,-7.44
+CA-2016-100048,2017-05-17,2017-05-18,First Class,CUST-8385,Consumer,United States,San Diego,California,84691,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,318.38,1,0.2,-28.94
+CA-2017-100049,2017-03-10,2017-03-15,First Class,CUST-6576,Corporate,United States,San Jose,California,46211,West,PROD-797682,Technology,Phones,Smartphone X 128GB,137.81,1,0.3,12.84
+CA-2018-100050,2017-05-07,2017-05-14,Same Day,CUST-8342,Consumer,United States,Los Angeles,California,48566,West,PROD-728041,Furniture,Furnishings,Picture Frame Set,397.49,2,0.2,33.37
+CA-2016-100051,2018-12-23,2018-12-28,Same Day,CUST-6419,Corporate,United States,San Diego,California,45509,West,PROD-389073,Office Supplies,Art,Dry Erase Markers,462.74,1,0.2,-59.35
+CA-2017-100052,2019-01-02,2019-01-04,Standard Class,CUST-4545,Home Office,United States,San Diego,California,46241,West,PROD-245086,Technology,Machines,All-in-One Printer,384.83,2,0.2,-35.53
+CA-2018-100053,2016-01-29,2016-01-31,First Class,CUST-1745,Consumer,United States,Dallas,Texas,48290,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,559.05,1,0.2,45.64
+CA-2016-100054,2018-06-21,2018-06-26,Standard Class,CUST-1841,Corporate,United States,San Diego,California,24953,West,PROD-293155,Furniture,Furnishings,Wall Clock,463.73,1,0.0,-50.53
+CA-2017-100055,2017-09-14,2017-09-15,Standard Class,CUST-2940,Home Office,United States,San Antonio,Texas,89471,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,2327.24,4,0.2,735.64
+CA-2018-100056,2018-05-28,2018-06-01,Second Class,CUST-2625,Consumer,United States,Houston,Texas,44687,South,PROD-797682,Technology,Phones,Smartphone X 128GB,286.36,2,0.0,-30.38
+CA-2016-100057,2018-04-16,2018-04-23,Same Day,CUST-5771,Consumer,United States,Houston,Texas,47762,South,PROD-598119,Technology,Machines,Inkjet Printer,441.18,1,0.2,120.31
+CA-2017-100058,2017-02-09,2017-02-15,Second Class,CUST-9922,Consumer,United States,Chicago,Illinois,44816,Central,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,1016.22,2,0.2,64.52
+CA-2018-100059,2018-08-17,2018-08-21,Same Day,CUST-5460,Home Office,United States,Dallas,Texas,74722,South,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,1884.65,4,0.2,-347.68
+CA-2016-100060,2017-04-13,2017-04-13,First Class,CUST-1659,Consumer,United States,San Diego,California,78021,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,1116.6,2,0.3,201.96
+CA-2017-100061,2018-10-04,2018-10-05,Same Day,CUST-6700,Corporate,United States,Philadelphia,Pennsylvania,52081,East,PROD-797682,Technology,Phones,Smartphone X 128GB,697.74,3,0.3,-18.89
+CA-2018-100062,2018-03-31,2018-03-31,Same Day,CUST-2442,Corporate,United States,Phoenix,Arizona,52372,West,PROD-728041,Furniture,Furnishings,Picture Frame Set,369.49,1,0.3,17.72
+CA-2016-100063,2017-01-19,2017-01-24,Same Day,CUST-8242,Consumer,United States,Houston,Texas,45003,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,1974.76,4,0.3,-251.08
+CA-2017-100064,2017-05-05,2017-05-07,First Class,CUST-1224,Home Office,United States,San Antonio,Texas,22217,South,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,467.94,1,0.1,46.34
+CA-2018-100065,2017-08-20,2017-08-24,Same Day,CUST-8905,Corporate,United States,Houston,Texas,69871,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,1328.19,2,0.1,422.92
+CA-2016-100066,2017-07-19,2017-07-25,First Class,CUST-9318,Corporate,United States,New York,New York,47072,East,PROD-598119,Technology,Machines,Inkjet Printer,504.01,2,0.3,3.57
+CA-2017-100067,2018-02-11,2018-02-18,First Class,CUST-4090,Home Office,United States,Houston,Texas,84946,South,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,180.57,1,0.3,40.29
+CA-2018-100068,2018-02-19,2018-02-25,Standard Class,CUST-9115,Consumer,United States,Chicago,Illinois,75836,Central,PROD-245086,Technology,Machines,All-in-One Printer,235.96,4,0.3,-45.02
+CA-2016-100069,2016-10-22,2016-10-28,Standard Class,CUST-2225,Corporate,United States,Phoenix,Arizona,54375,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,1433.48,3,0.3,533.95
+CA-2017-100070,2018-09-26,2018-09-26,Second Class,CUST-4846,Home Office,United States,Phoenix,Arizona,39817,West,PROD-181520,Technology,Phones,Cordless Office Phone,609.49,1,0.0,40.35
+CA-2018-100071,2017-09-05,2017-09-05,Second Class,CUST-6314,Consumer,United States,Phoenix,Arizona,56984,West,PROD-943888,Office Supplies,Storage,Plastic Storage Box,769.1,2,0.1,-75.38
+CA-2016-100072,2016-06-10,2016-06-16,Standard Class,CUST-9153,Home Office,United States,Chicago,Illinois,40433,Central,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,831.94,4,0.0,282.31
+CA-2017-100073,2018-08-10,2018-08-14,Standard Class,CUST-2210,Corporate,United States,Philadelphia,Pennsylvania,87014,East,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,978.37,6,0.2,-78.73
+CA-2018-100074,2018-02-26,2018-03-05,Second Class,CUST-4886,Corporate,United States,San Jose,California,57049,West,PROD-598119,Technology,Machines,Inkjet Printer,547.73,1,0.3,-19.34
+CA-2016-100075,2016-04-10,2016-04-17,First Class,CUST-4770,Home Office,United States,Philadelphia,Pennsylvania,38705,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,3270.69,6,0.1,578.74
+CA-2017-100076,2016-03-21,2016-03-25,Same Day,CUST-1546,Home Office,United States,Philadelphia,Pennsylvania,27224,East,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1810.75,6,0.1,-218.56
+CA-2018-100077,2018-01-19,2018-01-23,Standard Class,CUST-5210,Corporate,United States,Phoenix,Arizona,54396,West,PROD-266564,Furniture,Furnishings,Desk Lamp,1088.19,2,0.1,343.96
+CA-2016-100078,2018-03-24,2018-03-29,Second Class,CUST-7464,Consumer,United States,Phoenix,Arizona,80329,West,PROD-293155,Furniture,Furnishings,Wall Clock,2882.23,6,0.2,434.46
+CA-2017-100079,2018-01-30,2018-01-31,Standard Class,CUST-8724,Consumer,United States,San Jose,California,83584,West,PROD-173509,Office Supplies,Appliances,Office Shredder,232.08,6,0.3,80.21
+CA-2018-100080,2017-09-10,2017-09-16,Second Class,CUST-3290,Consumer,United States,New York,New York,49893,East,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,1278.67,2,0.1,42.44
+CA-2016-100081,2018-01-29,2018-02-04,Standard Class,CUST-7797,Home Office,United States,Los Angeles,California,74139,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,498.4,1,0.1,32.91
+CA-2017-100082,2017-04-28,2017-05-03,Second Class,CUST-7018,Home Office,United States,Philadelphia,Pennsylvania,17936,East,PROD-389073,Office Supplies,Art,Dry Erase Markers,531.62,1,0.3,-77.08
+CA-2018-100083,2017-03-10,2017-03-10,Second Class,CUST-6464,Consumer,United States,Chicago,Illinois,84000,Central,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,795.07,5,0.1,-2.28
+CA-2016-100084,2016-10-29,2016-10-29,First Class,CUST-3370,Consumer,United States,Dallas,Texas,42853,South,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,30.27,2,0.1,4.64
+CA-2017-100085,2016-02-02,2016-02-04,First Class,CUST-1858,Consumer,United States,San Antonio,Texas,78955,South,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,2494.09,4,0.0,177.59
+CA-2018-100086,2017-03-29,2017-03-29,First Class,CUST-8504,Home Office,United States,New York,New York,17972,East,PROD-316180,Office Supplies,Storage,Mobile File Cart,381.48,6,0.3,-59.47
+CA-2016-100087,2016-06-14,2016-06-19,Standard Class,CUST-2076,Consumer,United States,Phoenix,Arizona,91830,West,PROD-598119,Technology,Machines,Inkjet Printer,1493.77,5,0.3,154.35
+CA-2017-100088,2018-05-31,2018-06-01,Second Class,CUST-4522,Corporate,United States,San Diego,California,39949,West,PROD-391017,Office Supplies,Art,Highlighter Pack,1342.85,4,0.0,-16.75
+CA-2018-100089,2017-10-02,2017-10-06,First Class,CUST-3500,Home Office,United States,San Diego,California,18799,West,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,261.66,4,0.2,75.11
+CA-2016-100090,2016-05-02,2016-05-07,Second Class,CUST-7730,Corporate,United States,San Antonio,Texas,16743,South,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,235.88,3,0.1,-25.28
+CA-2017-100091,2018-09-14,2018-09-17,Second Class,CUST-6736,Home Office,United States,Philadelphia,Pennsylvania,25058,East,PROD-173509,Office Supplies,Appliances,Office Shredder,2707.59,4,0.0,447.83
+CA-2018-100092,2017-07-01,2017-07-01,Standard Class,CUST-5477,Home Office,United States,Phoenix,Arizona,54541,West,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,637.32,2,0.3,-100.86
+CA-2016-100093,2016-03-03,2016-03-04,Standard Class,CUST-7163,Corporate,United States,San Diego,California,54681,West,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1577.31,6,0.0,520.52
+CA-2017-100094,2016-11-14,2016-11-16,Second Class,CUST-2336,Corporate,United States,San Diego,California,96761,West,PROD-316180,Office Supplies,Storage,Mobile File Cart,888.67,4,0.0,6.31
+CA-2018-100095,2016-08-15,2016-08-19,Same Day,CUST-9633,Home Office,United States,Phoenix,Arizona,15952,West,PROD-728041,Furniture,Furnishings,Picture Frame Set,8.89,1,0.2,3.26
+CA-2016-100096,2016-10-08,2016-10-12,First Class,CUST-6375,Consumer,United States,New York,New York,75193,East,PROD-844518,Technology,Copiers,Commercial Copier 3000,553.08,2,0.1,55.4
+CA-2017-100097,2017-12-26,2017-12-27,Same Day,CUST-1693,Corporate,United States,New York,New York,70260,East,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1142.81,5,0.3,-30.05
+CA-2018-100098,2018-04-09,2018-04-09,First Class,CUST-3815,Home Office,United States,San Diego,California,57428,West,PROD-266564,Furniture,Furnishings,Desk Lamp,491.91,2,0.3,56.26
+CA-2016-100099,2018-03-21,2018-03-25,First Class,CUST-4630,Corporate,United States,Chicago,Illinois,20011,Central,PROD-797682,Technology,Phones,Smartphone X 128GB,767.14,3,0.1,-44.68
+CA-2017-100100,2016-10-26,2016-10-30,Standard Class,CUST-3842,Home Office,United States,Chicago,Illinois,95918,Central,PROD-472516,Furniture,Chairs,Mesh Task Chair,1046.76,4,0.3,218.44
+CA-2018-100101,2017-10-23,2017-10-28,Standard Class,CUST-8205,Consumer,United States,San Diego,California,67961,West,PROD-598119,Technology,Machines,Inkjet Printer,248.28,5,0.0,-3.42
+CA-2016-100102,2018-07-14,2018-07-14,Second Class,CUST-7041,Corporate,United States,Los Angeles,California,94497,West,PROD-034706,Furniture,Storage,Mobile File Cart,1865.45,4,0.0,130.28
+CA-2017-100103,2017-01-20,2017-01-25,Same Day,CUST-9214,Consumer,United States,New York,New York,69050,East,PROD-000013,Furniture,Tables,Office Desk Table,2593.36,5,0.0,-133.18
+CA-2018-100104,2018-06-15,2018-06-22,Standard Class,CUST-6962,Corporate,United States,Phoenix,Arizona,60779,West,PROD-389073,Office Supplies,Art,Dry Erase Markers,3117.65,6,0.0,-6.81
+CA-2016-100105,2018-03-02,2018-03-06,First Class,CUST-3463,Corporate,United States,Los Angeles,California,86380,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,1626.07,3,0.3,-199.4
+CA-2017-100106,2016-06-22,2016-06-26,Same Day,CUST-6381,Consumer,United States,Dallas,Texas,22249,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,263.94,1,0.1,97.84
+CA-2018-100107,2017-11-30,2017-12-07,Standard Class,CUST-4711,Consumer,United States,Chicago,Illinois,20114,Central,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,1472.73,6,0.1,233.2
+CA-2016-100108,2016-11-11,2016-11-13,Standard Class,CUST-3712,Home Office,United States,San Diego,California,15726,West,PROD-389073,Office Supplies,Art,Dry Erase Markers,1373.19,4,0.3,-81.84
+CA-2017-100109,2017-05-04,2017-05-08,Same Day,CUST-4178,Corporate,United States,San Jose,California,67749,West,PROD-391017,Office Supplies,Art,Highlighter Pack,1909.49,5,0.1,554.01
+CA-2018-100110,2016-10-10,2016-10-14,Second Class,CUST-8873,Corporate,United States,Dallas,Texas,23446,South,PROD-181520,Technology,Phones,Cordless Office Phone,489.34,1,0.2,34.05
+CA-2016-100111,2018-11-17,2018-11-19,Same Day,CUST-2502,Consumer,United States,San Diego,California,55820,West,PROD-266564,Furniture,Furnishings,Desk Lamp,1454.74,4,0.1,46.11
+CA-2017-100112,2016-06-16,2016-06-21,Standard Class,CUST-1461,Corporate,United States,Los Angeles,California,95191,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,163.15,1,0.3,35.51
+CA-2018-100113,2016-10-11,2016-10-18,Same Day,CUST-1086,Consumer,United States,New York,New York,43544,East,PROD-472516,Furniture,Chairs,Mesh Task Chair,2054.05,6,0.3,-273.78
+CA-2016-100114,2017-08-13,2017-08-16,First Class,CUST-2996,Consumer,United States,Houston,Texas,65027,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,469.12,1,0.3,74.14
+CA-2017-100115,2016-02-03,2016-02-06,Standard Class,CUST-5772,Corporate,United States,New York,New York,90584,East,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,1066.35,2,0.0,121.66
+CA-2018-100116,2018-01-08,2018-01-09,Second Class,CUST-7397,Corporate,United States,New York,New York,93318,East,PROD-391017,Office Supplies,Art,Highlighter Pack,107.48,6,0.0,0.74
+CA-2016-100117,2016-07-31,2016-08-05,Standard Class,CUST-1726,Corporate,United States,Dallas,Texas,54374,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,2081.33,6,0.1,597.13
+CA-2017-100118,2016-05-09,2016-05-16,Second Class,CUST-5807,Consumer,United States,New York,New York,36144,East,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1125.56,5,0.3,-54.04
+CA-2018-100119,2017-01-26,2017-01-30,First Class,CUST-1783,Home Office,United States,Philadelphia,Pennsylvania,45811,East,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1668.6,4,0.3,5.71
+CA-2016-100120,2017-01-17,2017-01-24,Same Day,CUST-7018,Home Office,United States,Phoenix,Arizona,20828,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,1742.22,4,0.1,221.76
+CA-2017-100121,2017-10-19,2017-10-20,Second Class,CUST-6372,Home Office,United States,Phoenix,Arizona,50173,West,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,885.38,2,0.2,60.45
+CA-2018-100122,2017-12-23,2017-12-29,First Class,CUST-1939,Consumer,United States,San Antonio,Texas,57619,South,PROD-913145,Technology,Accessories,Wireless Mouse,951.57,2,0.3,-170.45
+CA-2016-100123,2016-05-17,2016-05-20,First Class,CUST-6933,Corporate,United States,San Jose,California,14244,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,902.25,3,0.0,130.24
+CA-2017-100124,2018-12-20,2018-12-25,Same Day,CUST-6150,Home Office,United States,Phoenix,Arizona,42717,West,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,1666.43,4,0.0,-71.55
+CA-2018-100125,2017-06-17,2017-06-24,Standard Class,CUST-5678,Home Office,United States,San Diego,California,36237,West,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,398.33,4,0.3,158.68
+CA-2016-100126,2017-10-16,2017-10-21,Second Class,CUST-9882,Corporate,United States,Phoenix,Arizona,30644,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,824.72,5,0.1,227.0
+CA-2017-100127,2017-04-29,2017-05-06,Second Class,CUST-6912,Home Office,United States,San Jose,California,58353,West,PROD-173509,Office Supplies,Appliances,Office Shredder,3539.88,5,0.0,-51.06
+CA-2018-100128,2018-09-07,2018-09-13,Same Day,CUST-2208,Consumer,United States,Philadelphia,Pennsylvania,94192,East,PROD-293155,Furniture,Furnishings,Wall Clock,2248.03,6,0.1,734.6
+CA-2016-100129,2017-01-07,2017-01-09,Same Day,CUST-9238,Consumer,United States,Los Angeles,California,77908,West,PROD-000013,Furniture,Tables,Office Desk Table,470.73,2,0.1,3.58
+CA-2017-100130,2018-11-28,2018-12-02,Second Class,CUST-5105,Consumer,United States,Dallas,Texas,45972,South,PROD-000013,Furniture,Tables,Office Desk Table,2315.63,5,0.1,-225.26
+CA-2018-100131,2017-11-22,2017-11-22,Second Class,CUST-2330,Consumer,United States,San Jose,California,44688,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,1795.49,5,0.3,598.61
+CA-2016-100132,2017-08-16,2017-08-20,Same Day,CUST-5012,Home Office,United States,San Antonio,Texas,48985,South,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,496.28,2,0.3,39.04
+CA-2017-100133,2017-11-27,2017-11-29,First Class,CUST-6231,Home Office,United States,Philadelphia,Pennsylvania,62260,East,PROD-000013,Furniture,Tables,Office Desk Table,591.54,3,0.0,-23.38
+CA-2018-100134,2017-05-22,2017-05-24,Second Class,CUST-1829,Corporate,United States,San Antonio,Texas,90658,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,1793.6,3,0.2,-154.43
+CA-2016-100135,2016-11-22,2016-11-29,Same Day,CUST-9171,Corporate,United States,San Diego,California,13037,West,PROD-728041,Furniture,Furnishings,Picture Frame Set,2784.66,4,0.1,417.72
+CA-2017-100136,2016-04-09,2016-04-09,First Class,CUST-9108,Home Office,United States,San Diego,California,47453,West,PROD-797682,Technology,Phones,Smartphone X 128GB,356.73,4,0.2,84.37
+CA-2018-100137,2018-04-05,2018-04-10,Second Class,CUST-7563,Consumer,United States,San Jose,California,83638,West,PROD-344928,Furniture,Tables,Adjustable Standing Desk,218.5,1,0.3,56.51
+CA-2016-100138,2017-07-26,2017-07-27,Standard Class,CUST-2584,Corporate,United States,Philadelphia,Pennsylvania,54444,East,PROD-245086,Technology,Machines,All-in-One Printer,677.54,2,0.3,67.79
+CA-2017-100139,2016-04-02,2016-04-02,Standard Class,CUST-6456,Corporate,United States,Dallas,Texas,69898,South,PROD-044240,Furniture,Storage,Plastic Storage Box,1789.05,3,0.2,-183.38
+CA-2018-100140,2017-09-04,2017-09-09,Same Day,CUST-5911,Corporate,United States,New York,New York,58281,East,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1876.17,4,0.0,296.71
+CA-2016-100141,2017-06-27,2017-06-30,Second Class,CUST-8871,Consumer,United States,Dallas,Texas,92447,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,1185.28,6,0.0,-101.38
+CA-2017-100142,2018-06-22,2018-06-27,Same Day,CUST-3481,Corporate,United States,Houston,Texas,63788,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,619.79,6,0.1,84.62
+CA-2018-100143,2018-09-06,2018-09-12,First Class,CUST-3837,Corporate,United States,Dallas,Texas,54869,South,PROD-598119,Technology,Machines,Inkjet Printer,1754.65,5,0.1,-57.19
+CA-2016-100144,2017-09-03,2017-09-06,First Class,CUST-5735,Home Office,United States,Houston,Texas,74094,South,PROD-316180,Office Supplies,Storage,Mobile File Cart,2989.17,5,0.2,-81.68
+CA-2017-100145,2018-02-16,2018-02-22,First Class,CUST-3399,Corporate,United States,New York,New York,47700,East,PROD-181520,Technology,Phones,Cordless Office Phone,1474.19,4,0.3,-105.56
+CA-2018-100146,2017-07-09,2017-07-13,Standard Class,CUST-2789,Home Office,United States,San Jose,California,41363,West,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,1140.63,6,0.0,54.73
+CA-2016-100147,2018-08-25,2018-08-26,Standard Class,CUST-1084,Home Office,United States,Chicago,Illinois,63334,Central,PROD-844518,Technology,Copiers,Commercial Copier 3000,785.12,6,0.2,-5.73
+CA-2017-100148,2016-05-01,2016-05-02,Standard Class,CUST-9767,Home Office,United States,New York,New York,32946,East,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,2273.14,4,0.1,822.8
+CA-2018-100149,2017-08-15,2017-08-15,Second Class,CUST-5888,Home Office,United States,San Jose,California,24064,West,PROD-391017,Office Supplies,Art,Highlighter Pack,1835.08,6,0.3,612.1
+CA-2016-100150,2016-10-01,2016-10-08,First Class,CUST-4159,Consumer,United States,Philadelphia,Pennsylvania,31298,East,PROD-844518,Technology,Copiers,Commercial Copier 3000,734.54,6,0.2,201.6
+CA-2017-100151,2017-01-30,2017-02-01,Same Day,CUST-8007,Home Office,United States,Philadelphia,Pennsylvania,21368,East,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1099.62,2,0.3,-6.42
+CA-2018-100152,2017-05-23,2017-05-23,First Class,CUST-7284,Consumer,United States,San Diego,California,44995,West,PROD-389073,Office Supplies,Art,Dry Erase Markers,1416.63,3,0.1,-230.52
+CA-2016-100153,2016-08-30,2016-09-06,First Class,CUST-3616,Corporate,United States,Dallas,Texas,50760,South,PROD-181520,Technology,Phones,Cordless Office Phone,1332.79,3,0.1,499.02
+CA-2017-100154,2018-09-06,2018-09-08,Same Day,CUST-7121,Corporate,United States,Dallas,Texas,71712,South,PROD-913145,Technology,Accessories,Wireless Mouse,3630.11,6,0.0,418.57
+CA-2018-100155,2018-12-17,2018-12-22,Second Class,CUST-2838,Consumer,United States,Dallas,Texas,76255,South,PROD-044240,Furniture,Storage,Plastic Storage Box,372.19,2,0.3,-48.48
+CA-2016-100156,2017-02-24,2017-03-03,Second Class,CUST-9361,Corporate,United States,New York,New York,69432,East,PROD-034706,Furniture,Storage,Mobile File Cart,1269.27,4,0.3,258.5
+CA-2017-100157,2017-09-23,2017-09-23,Same Day,CUST-5169,Consumer,United States,Houston,Texas,85800,South,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,1685.42,3,0.0,608.01
+CA-2018-100158,2016-05-21,2016-05-28,Second Class,CUST-5703,Corporate,United States,Chicago,Illinois,27750,Central,PROD-844518,Technology,Copiers,Commercial Copier 3000,1012.44,4,0.3,25.7
+CA-2016-100159,2016-09-29,2016-10-04,Second Class,CUST-3924,Home Office,United States,San Antonio,Texas,79316,South,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,548.03,1,0.3,111.85
+CA-2017-100160,2018-05-18,2018-05-24,Standard Class,CUST-5055,Corporate,United States,Philadelphia,Pennsylvania,30332,East,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,453.97,1,0.3,76.7
+CA-2018-100161,2016-02-02,2016-02-05,Standard Class,CUST-2102,Consumer,United States,San Jose,California,14400,West,PROD-173509,Office Supplies,Appliances,Office Shredder,831.22,2,0.3,52.68
+CA-2016-100162,2017-03-20,2017-03-20,Standard Class,CUST-9255,Corporate,United States,Houston,Texas,85511,South,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,440.82,2,0.1,172.54
+CA-2017-100163,2018-12-03,2018-12-06,Same Day,CUST-5923,Corporate,United States,New York,New York,82970,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,1596.07,5,0.2,582.49
+CA-2018-100164,2018-02-19,2018-02-24,Same Day,CUST-7688,Consumer,United States,Phoenix,Arizona,59343,West,PROD-034706,Furniture,Storage,Mobile File Cart,1088.36,2,0.2,342.32
+CA-2016-100165,2016-10-22,2016-10-29,Second Class,CUST-7761,Corporate,United States,Dallas,Texas,79467,South,PROD-266564,Furniture,Furnishings,Desk Lamp,499.96,3,0.0,176.65
+CA-2017-100166,2018-01-29,2018-01-30,Standard Class,CUST-1844,Corporate,United States,San Antonio,Texas,98299,South,PROD-797682,Technology,Phones,Smartphone X 128GB,1160.46,2,0.1,101.7
+CA-2018-100167,2017-11-12,2017-11-16,Second Class,CUST-4470,Consumer,United States,Los Angeles,California,72773,West,PROD-044240,Furniture,Storage,Plastic Storage Box,2344.08,4,0.2,621.9
+CA-2016-100168,2018-02-18,2018-02-25,First Class,CUST-6053,Corporate,United States,Philadelphia,Pennsylvania,77215,East,PROD-943888,Office Supplies,Storage,Plastic Storage Box,1815.58,6,0.2,632.91
+CA-2017-100169,2018-01-29,2018-02-03,Same Day,CUST-1749,Home Office,United States,Houston,Texas,29126,South,PROD-344928,Furniture,Tables,Adjustable Standing Desk,302.8,3,0.2,-18.77
+CA-2018-100170,2017-05-18,2017-05-25,First Class,CUST-5216,Corporate,United States,San Diego,California,70401,West,PROD-000013,Furniture,Tables,Office Desk Table,808.71,2,0.3,-72.44
+CA-2016-100171,2016-04-30,2016-04-30,Second Class,CUST-1794,Consumer,United States,San Antonio,Texas,28021,South,PROD-913145,Technology,Accessories,Wireless Mouse,675.37,6,0.1,69.86
+CA-2017-100172,2018-02-03,2018-02-03,Same Day,CUST-8993,Consumer,United States,New York,New York,79758,East,PROD-844518,Technology,Copiers,Commercial Copier 3000,340.71,1,0.2,41.38
+CA-2018-100173,2017-08-10,2017-08-10,Same Day,CUST-3937,Consumer,United States,Los Angeles,California,78732,West,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,1694.13,5,0.2,-67.1
+CA-2016-100174,2018-03-23,2018-03-24,First Class,CUST-7652,Corporate,United States,San Jose,California,41877,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,3979.86,6,0.0,765.09
+CA-2017-100175,2016-03-05,2016-03-06,Same Day,CUST-7213,Corporate,United States,Dallas,Texas,72390,South,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,281.67,1,0.3,52.66
+CA-2018-100176,2017-11-09,2017-11-10,Second Class,CUST-4764,Consumer,United States,San Jose,California,72324,West,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,4445.04,6,0.0,-410.67
+CA-2016-100177,2017-10-06,2017-10-06,Standard Class,CUST-3362,Home Office,United States,San Antonio,Texas,20084,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,2339.92,5,0.3,482.54
+CA-2017-100178,2017-11-10,2017-11-16,Standard Class,CUST-2284,Home Office,United States,Philadelphia,Pennsylvania,17038,East,PROD-266564,Furniture,Furnishings,Desk Lamp,193.04,1,0.3,73.62
+CA-2018-100179,2017-10-30,2017-10-30,First Class,CUST-8381,Corporate,United States,Houston,Texas,56636,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,763.5,2,0.3,-113.44
+CA-2016-100180,2017-08-27,2017-08-30,Second Class,CUST-2344,Corporate,United States,Chicago,Illinois,59807,Central,PROD-444595,Technology,Accessories,Mechanical Keyboard,875.27,3,0.0,-172.33
+CA-2017-100181,2017-09-23,2017-09-30,First Class,CUST-5419,Consumer,United States,Chicago,Illinois,21442,Central,PROD-293155,Furniture,Furnishings,Wall Clock,1561.06,5,0.3,-215.46
+CA-2018-100182,2016-07-02,2016-07-07,Second Class,CUST-6315,Corporate,United States,New York,New York,48253,East,PROD-943888,Office Supplies,Storage,Plastic Storage Box,3895.58,6,0.1,557.75
+CA-2016-100183,2016-12-13,2016-12-19,Standard Class,CUST-3274,Corporate,United States,Phoenix,Arizona,45180,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,490.79,2,0.3,-9.89
+CA-2017-100184,2016-06-06,2016-06-11,First Class,CUST-5040,Home Office,United States,San Diego,California,87831,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,112.71,1,0.0,41.62
+CA-2018-100185,2017-11-11,2017-11-17,First Class,CUST-8212,Corporate,United States,San Antonio,Texas,95332,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,1308.29,3,0.1,114.35
+CA-2016-100186,2016-12-29,2017-01-04,First Class,CUST-5775,Home Office,United States,San Diego,California,85481,West,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1373.64,3,0.3,26.11
+CA-2017-100187,2017-02-13,2017-02-15,Second Class,CUST-8563,Home Office,United States,Houston,Texas,67469,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1944.06,4,0.1,349.93
+CA-2018-100188,2017-05-10,2017-05-14,Standard Class,CUST-7932,Corporate,United States,Los Angeles,California,68860,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,1427.15,5,0.3,180.09
+CA-2016-100189,2018-01-06,2018-01-07,Second Class,CUST-5067,Home Office,United States,Philadelphia,Pennsylvania,31802,East,PROD-181520,Technology,Phones,Cordless Office Phone,1622.76,3,0.3,-221.4
+CA-2017-100190,2016-07-20,2016-07-24,Standard Class,CUST-9366,Home Office,United States,Dallas,Texas,83137,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,853.07,3,0.1,5.95
+CA-2018-100191,2016-02-20,2016-02-27,Second Class,CUST-5840,Corporate,United States,Los Angeles,California,25213,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,749.89,3,0.1,84.49
+CA-2016-100192,2017-12-14,2017-12-21,Second Class,CUST-8178,Home Office,United States,San Diego,California,51800,West,PROD-000013,Furniture,Tables,Office Desk Table,463.17,6,0.2,87.44
+CA-2017-100193,2016-12-02,2016-12-05,Standard Class,CUST-3623,Corporate,United States,Dallas,Texas,65885,South,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,636.88,6,0.3,23.79
+CA-2018-100194,2017-02-08,2017-02-15,Same Day,CUST-7370,Consumer,United States,Houston,Texas,36972,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,386.52,5,0.1,7.53
+CA-2016-100195,2017-02-07,2017-02-14,Second Class,CUST-5298,Home Office,United States,San Diego,California,79168,West,PROD-598119,Technology,Machines,Inkjet Printer,1585.36,5,0.0,13.88
+CA-2017-100196,2018-07-26,2018-07-28,First Class,CUST-2388,Home Office,United States,Chicago,Illinois,51049,Central,PROD-244766,Furniture,Chairs,Executive Leather Chair,135.47,1,0.1,14.43
+CA-2018-100197,2018-05-06,2018-05-08,Same Day,CUST-7931,Consumer,United States,San Diego,California,93296,West,PROD-913145,Technology,Accessories,Wireless Mouse,844.65,4,0.1,-9.5
+CA-2016-100198,2018-07-12,2018-07-12,First Class,CUST-1157,Corporate,United States,Chicago,Illinois,35575,Central,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,1538.13,4,0.3,347.75
+CA-2017-100199,2018-06-28,2018-07-05,Standard Class,CUST-2354,Home Office,United States,New York,New York,38905,East,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,778.32,2,0.1,208.94
+CA-2018-100200,2018-10-11,2018-10-12,Second Class,CUST-5389,Home Office,United States,Philadelphia,Pennsylvania,81046,East,PROD-728041,Furniture,Furnishings,Picture Frame Set,1583.74,2,0.0,382.62
+CA-2016-100201,2017-05-21,2017-05-25,Second Class,CUST-8368,Corporate,United States,Philadelphia,Pennsylvania,21401,East,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,1039.21,2,0.2,329.04
+CA-2017-100202,2018-05-26,2018-05-28,Standard Class,CUST-4385,Consumer,United States,New York,New York,84720,East,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,1733.28,5,0.2,671.47
+CA-2018-100203,2017-08-22,2017-08-26,First Class,CUST-9428,Home Office,United States,Los Angeles,California,27771,West,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,571.73,6,0.1,-28.7
+CA-2016-100204,2017-10-21,2017-10-24,Same Day,CUST-9019,Consumer,United States,San Jose,California,92890,West,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1457.33,4,0.0,60.79
+CA-2017-100205,2017-07-23,2017-07-28,Same Day,CUST-8996,Corporate,United States,San Jose,California,10324,West,PROD-181520,Technology,Phones,Cordless Office Phone,2558.37,6,0.2,793.26
+CA-2018-100206,2018-12-30,2019-01-05,Standard Class,CUST-8039,Consumer,United States,San Diego,California,45197,West,PROD-391017,Office Supplies,Art,Highlighter Pack,1625.6,5,0.3,443.76
+CA-2016-100207,2016-04-09,2016-04-09,Second Class,CUST-8529,Consumer,United States,Los Angeles,California,30707,West,PROD-943888,Office Supplies,Storage,Plastic Storage Box,597.03,4,0.1,196.6
+CA-2017-100208,2017-09-10,2017-09-12,First Class,CUST-2529,Home Office,United States,Philadelphia,Pennsylvania,42819,East,PROD-000013,Furniture,Tables,Office Desk Table,256.07,1,0.2,60.33
+CA-2018-100209,2017-04-24,2017-04-30,Second Class,CUST-2559,Consumer,United States,Houston,Texas,72496,South,PROD-472516,Furniture,Chairs,Mesh Task Chair,585.14,2,0.3,-113.77
+CA-2016-100210,2017-12-04,2017-12-05,Same Day,CUST-3165,Corporate,United States,Los Angeles,California,40008,West,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,203.29,1,0.2,-23.93
+CA-2017-100211,2016-09-29,2016-10-01,Second Class,CUST-9691,Home Office,United States,New York,New York,89995,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,1564.2,3,0.1,550.5
+CA-2018-100212,2018-06-25,2018-06-28,Second Class,CUST-2646,Consumer,United States,Los Angeles,California,87276,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,918.11,4,0.1,-47.12
+CA-2016-100213,2016-06-21,2016-06-24,First Class,CUST-1439,Home Office,United States,Phoenix,Arizona,36928,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,1400.5,3,0.1,135.75
+CA-2017-100214,2016-08-18,2016-08-21,Same Day,CUST-2163,Home Office,United States,New York,New York,57329,East,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,1528.14,5,0.1,393.7
+CA-2018-100215,2016-05-29,2016-05-29,Second Class,CUST-1225,Corporate,United States,Houston,Texas,15220,South,PROD-728041,Furniture,Furnishings,Picture Frame Set,1059.9,3,0.3,57.39
+CA-2016-100216,2018-04-03,2018-04-04,Standard Class,CUST-5546,Consumer,United States,Phoenix,Arizona,20357,West,PROD-913145,Technology,Accessories,Wireless Mouse,1323.83,5,0.0,-18.4
+CA-2017-100217,2018-06-14,2018-06-17,Second Class,CUST-5005,Consumer,United States,San Antonio,Texas,25202,South,PROD-173509,Office Supplies,Appliances,Office Shredder,1443.24,3,0.1,-185.22
+CA-2018-100218,2016-10-08,2016-10-08,Standard Class,CUST-9133,Corporate,United States,Dallas,Texas,77793,South,PROD-245086,Technology,Machines,All-in-One Printer,254.18,3,0.2,60.94
+CA-2016-100219,2016-08-29,2016-08-29,First Class,CUST-8034,Corporate,United States,Dallas,Texas,18371,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1174.02,4,0.2,-195.75
+CA-2017-100220,2016-12-07,2016-12-12,Standard Class,CUST-5179,Consumer,United States,San Jose,California,98358,West,PROD-797682,Technology,Phones,Smartphone X 128GB,2457.09,6,0.0,774.51
+CA-2018-100221,2016-01-26,2016-01-29,Second Class,CUST-8729,Corporate,United States,San Antonio,Texas,29671,South,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,365.17,2,0.3,127.63
+CA-2016-100222,2017-10-17,2017-10-21,Second Class,CUST-7108,Consumer,United States,Dallas,Texas,98254,South,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,2748.28,5,0.3,-436.0
+CA-2017-100223,2018-08-10,2018-08-14,First Class,CUST-6362,Consumer,United States,Dallas,Texas,69866,South,PROD-000013,Furniture,Tables,Office Desk Table,1087.74,3,0.2,265.13
+CA-2018-100224,2017-05-11,2017-05-18,First Class,CUST-9083,Consumer,United States,Dallas,Texas,42129,South,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,152.19,1,0.2,27.63
+CA-2016-100225,2016-01-20,2016-01-25,Second Class,CUST-7164,Home Office,United States,Phoenix,Arizona,23624,West,PROD-044240,Furniture,Storage,Plastic Storage Box,1584.65,4,0.0,607.77
+CA-2017-100226,2016-10-18,2016-10-22,Second Class,CUST-1719,Consumer,United States,Dallas,Texas,64140,South,PROD-598119,Technology,Machines,Inkjet Printer,434.98,6,0.0,44.91
+CA-2018-100227,2018-03-18,2018-03-19,Second Class,CUST-8126,Home Office,United States,Chicago,Illinois,41034,Central,PROD-391017,Office Supplies,Art,Highlighter Pack,1798.65,4,0.2,-16.49
+CA-2016-100228,2017-07-10,2017-07-13,Second Class,CUST-4321,Consumer,United States,San Jose,California,24283,West,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,1051.44,4,0.3,-134.12
+CA-2017-100229,2018-01-03,2018-01-06,Same Day,CUST-6051,Corporate,United States,Phoenix,Arizona,25717,West,PROD-472516,Furniture,Chairs,Mesh Task Chair,1985.93,3,0.0,-140.98
+CA-2018-100230,2017-11-02,2017-11-04,Second Class,CUST-5066,Corporate,United States,San Antonio,Texas,77300,South,PROD-344928,Furniture,Tables,Adjustable Standing Desk,41.59,2,0.3,13.01
+CA-2016-100231,2017-05-26,2017-05-27,Same Day,CUST-2669,Consumer,United States,Los Angeles,California,11567,West,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,1055.71,2,0.2,223.57
+CA-2017-100232,2016-06-21,2016-06-25,Second Class,CUST-1357,Consumer,United States,Houston,Texas,94670,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,215.06,3,0.3,-36.48
+CA-2018-100233,2018-06-06,2018-06-12,Same Day,CUST-1483,Corporate,United States,San Antonio,Texas,32650,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,614.21,3,0.1,-110.07
+CA-2016-100234,2017-05-18,2017-05-22,Same Day,CUST-7750,Home Office,United States,San Diego,California,17992,West,PROD-344928,Furniture,Tables,Adjustable Standing Desk,608.93,2,0.1,108.67
+CA-2017-100235,2016-02-09,2016-02-15,First Class,CUST-8859,Home Office,United States,San Diego,California,55093,West,PROD-598119,Technology,Machines,Inkjet Printer,355.09,3,0.2,56.2
+CA-2018-100236,2016-03-01,2016-03-05,Second Class,CUST-8728,Home Office,United States,Philadelphia,Pennsylvania,86544,East,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,843.53,2,0.2,101.4
+CA-2016-100237,2016-04-24,2016-04-27,Same Day,CUST-6813,Consumer,United States,Chicago,Illinois,41005,Central,PROD-598119,Technology,Machines,Inkjet Printer,109.7,5,0.2,40.43
+CA-2017-100238,2016-10-18,2016-10-21,Same Day,CUST-9882,Corporate,United States,Chicago,Illinois,74282,Central,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,966.64,2,0.0,112.0
+CA-2018-100239,2016-01-02,2016-01-07,Standard Class,CUST-3137,Corporate,United States,Chicago,Illinois,52413,Central,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,2543.55,5,0.1,673.07
+CA-2016-100240,2018-12-13,2018-12-18,Second Class,CUST-7120,Home Office,United States,San Antonio,Texas,86810,South,PROD-344928,Furniture,Tables,Adjustable Standing Desk,306.39,3,0.1,73.35
+CA-2017-100241,2018-06-13,2018-06-20,First Class,CUST-3854,Home Office,United States,Dallas,Texas,90440,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,796.56,4,0.2,-98.45
+CA-2018-100242,2016-01-04,2016-01-10,Second Class,CUST-3983,Home Office,United States,Philadelphia,Pennsylvania,90134,East,PROD-044240,Furniture,Storage,Plastic Storage Box,467.25,4,0.0,-26.73
+CA-2016-100243,2017-10-16,2017-10-18,Second Class,CUST-6500,Corporate,United States,New York,New York,44761,East,PROD-472516,Furniture,Chairs,Mesh Task Chair,283.63,1,0.0,65.87
+CA-2017-100244,2016-04-08,2016-04-14,Same Day,CUST-7875,Consumer,United States,San Antonio,Texas,74629,South,PROD-391017,Office Supplies,Art,Highlighter Pack,597.51,1,0.1,-61.19
+CA-2018-100245,2016-05-30,2016-05-30,First Class,CUST-1328,Corporate,United States,Phoenix,Arizona,23726,West,PROD-000013,Furniture,Tables,Office Desk Table,531.68,4,0.0,68.18
+CA-2016-100246,2016-07-09,2016-07-14,Same Day,CUST-1507,Corporate,United States,Chicago,Illinois,89602,Central,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,241.4,1,0.1,11.0
+CA-2017-100247,2017-06-27,2017-07-01,First Class,CUST-4891,Consumer,United States,New York,New York,61498,East,PROD-844518,Technology,Copiers,Commercial Copier 3000,204.3,1,0.3,-30.12
+CA-2018-100248,2018-09-10,2018-09-13,Second Class,CUST-1421,Consumer,United States,Chicago,Illinois,93648,Central,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,175.1,1,0.3,14.46
+CA-2016-100249,2017-06-26,2017-06-27,Same Day,CUST-4029,Corporate,United States,San Antonio,Texas,58418,South,PROD-266564,Furniture,Furnishings,Desk Lamp,851.02,3,0.2,-54.68
+CA-2017-100250,2017-07-04,2017-07-04,Standard Class,CUST-2584,Consumer,United States,Philadelphia,Pennsylvania,80968,East,PROD-173509,Office Supplies,Appliances,Office Shredder,187.19,5,0.3,54.48
+CA-2018-100251,2018-05-07,2018-05-14,Standard Class,CUST-8803,Corporate,United States,Los Angeles,California,61747,West,PROD-797682,Technology,Phones,Smartphone X 128GB,531.76,1,0.3,-51.19
+CA-2016-100252,2016-12-08,2016-12-11,Standard Class,CUST-3067,Consumer,United States,San Antonio,Texas,20271,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,588.3,6,0.2,-4.79
+CA-2017-100253,2016-05-17,2016-05-18,Same Day,CUST-7510,Home Office,United States,Philadelphia,Pennsylvania,46202,East,PROD-844518,Technology,Copiers,Commercial Copier 3000,2101.39,6,0.3,-278.41
+CA-2018-100254,2016-11-02,2016-11-04,Second Class,CUST-2730,Home Office,United States,Los Angeles,California,47498,West,PROD-598119,Technology,Machines,Inkjet Printer,649.99,3,0.3,93.09
+CA-2016-100255,2018-08-26,2018-08-26,Standard Class,CUST-5512,Corporate,United States,Chicago,Illinois,91034,Central,PROD-844518,Technology,Copiers,Commercial Copier 3000,2279.08,4,0.2,488.43
+CA-2017-100256,2016-04-10,2016-04-17,First Class,CUST-7102,Consumer,United States,Philadelphia,Pennsylvania,49722,East,PROD-391017,Office Supplies,Art,Highlighter Pack,2967.07,6,0.1,-354.18
+CA-2018-100257,2018-06-26,2018-07-01,First Class,CUST-7828,Home Office,United States,Los Angeles,California,34633,West,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,1872.7,6,0.2,547.97
+CA-2016-100258,2018-11-21,2018-11-23,Second Class,CUST-6097,Home Office,United States,Dallas,Texas,62872,South,PROD-044240,Furniture,Storage,Plastic Storage Box,284.84,2,0.1,86.07
+CA-2017-100259,2017-05-25,2017-05-25,Same Day,CUST-1828,Corporate,United States,Houston,Texas,45910,South,PROD-316180,Office Supplies,Storage,Mobile File Cart,4433.06,6,0.0,-243.1
+CA-2018-100260,2018-09-28,2018-10-05,Standard Class,CUST-8775,Home Office,United States,Dallas,Texas,55843,South,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,3993.25,6,0.0,-115.64
+CA-2016-100261,2018-03-02,2018-03-02,Standard Class,CUST-4511,Consumer,United States,Houston,Texas,98826,South,PROD-344928,Furniture,Tables,Adjustable Standing Desk,104.71,5,0.0,8.84
+CA-2017-100262,2016-09-27,2016-09-29,Second Class,CUST-4666,Corporate,United States,San Jose,California,50037,West,PROD-598119,Technology,Machines,Inkjet Printer,1909.63,4,0.3,-93.19
+CA-2018-100263,2018-08-13,2018-08-17,Same Day,CUST-2676,Consumer,United States,Dallas,Texas,96816,South,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,1153.13,3,0.3,-186.46
+CA-2016-100264,2017-07-20,2017-07-25,First Class,CUST-5278,Home Office,United States,Phoenix,Arizona,34688,West,PROD-044240,Furniture,Storage,Plastic Storage Box,451.72,1,0.3,88.68
+CA-2017-100265,2016-10-13,2016-10-13,Same Day,CUST-5843,Corporate,United States,San Antonio,Texas,63031,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,2555.62,5,0.1,15.08
+CA-2018-100266,2017-03-31,2017-04-07,First Class,CUST-9311,Corporate,United States,Chicago,Illinois,96194,Central,PROD-444595,Technology,Accessories,Mechanical Keyboard,303.42,1,0.2,71.34
+CA-2016-100267,2017-01-09,2017-01-14,Second Class,CUST-4641,Corporate,United States,Houston,Texas,50250,South,PROD-391017,Office Supplies,Art,Highlighter Pack,988.11,3,0.3,307.03
+CA-2017-100268,2018-08-21,2018-08-21,Second Class,CUST-8736,Consumer,United States,Dallas,Texas,25704,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,172.73,4,0.1,-20.31
+CA-2018-100269,2017-02-14,2017-02-19,Same Day,CUST-8496,Consumer,United States,Philadelphia,Pennsylvania,33639,East,PROD-293155,Furniture,Furnishings,Wall Clock,3789.02,6,0.2,684.67
+CA-2016-100270,2016-01-10,2016-01-17,First Class,CUST-4430,Consumer,United States,San Jose,California,30766,West,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,1224.3,5,0.3,51.46
+CA-2017-100271,2018-09-04,2018-09-10,Second Class,CUST-1618,Home Office,United States,Houston,Texas,58903,South,PROD-000013,Furniture,Tables,Office Desk Table,488.71,1,0.1,-31.4
+CA-2018-100272,2017-12-06,2017-12-10,Standard Class,CUST-2682,Corporate,United States,Dallas,Texas,87158,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,193.66,1,0.2,14.24
+CA-2016-100273,2018-12-01,2018-12-06,Same Day,CUST-3192,Corporate,United States,San Diego,California,57087,West,PROD-244766,Furniture,Chairs,Executive Leather Chair,167.93,1,0.1,-12.31
+CA-2017-100274,2016-02-14,2016-02-16,Second Class,CUST-7006,Home Office,United States,New York,New York,59177,East,PROD-245086,Technology,Machines,All-in-One Printer,3978.85,5,0.0,764.5
+CA-2018-100275,2016-02-10,2016-02-10,Second Class,CUST-7828,Corporate,United States,San Antonio,Texas,26199,South,PROD-598119,Technology,Machines,Inkjet Printer,760.42,6,0.0,-14.7
+CA-2016-100276,2016-07-25,2016-07-29,Standard Class,CUST-7862,Consumer,United States,Dallas,Texas,90962,South,PROD-000013,Furniture,Tables,Office Desk Table,360.63,1,0.1,96.21
+CA-2017-100277,2018-12-07,2018-12-10,First Class,CUST-7713,Corporate,United States,Chicago,Illinois,15164,Central,PROD-844518,Technology,Copiers,Commercial Copier 3000,3584.8,6,0.2,-212.57
+CA-2018-100278,2016-01-27,2016-01-28,Second Class,CUST-9095,Consumer,United States,Los Angeles,California,77070,West,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,906.11,6,0.2,-37.63
+CA-2016-100279,2016-04-12,2016-04-13,Standard Class,CUST-1646,Corporate,United States,Philadelphia,Pennsylvania,98705,East,PROD-943888,Office Supplies,Storage,Plastic Storage Box,681.74,1,0.0,-132.39
+CA-2017-100280,2016-10-10,2016-10-12,First Class,CUST-6857,Corporate,United States,San Jose,California,45167,West,PROD-181520,Technology,Phones,Cordless Office Phone,315.8,3,0.3,12.68
+CA-2018-100281,2018-07-23,2018-07-27,Same Day,CUST-8835,Corporate,United States,Chicago,Illinois,24818,Central,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,235.02,1,0.3,66.12
+CA-2016-100282,2018-06-16,2018-06-18,Same Day,CUST-6875,Home Office,United States,New York,New York,99714,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,265.4,4,0.3,17.1
+CA-2017-100283,2016-05-09,2016-05-13,First Class,CUST-1202,Home Office,United States,Dallas,Texas,85582,South,PROD-444595,Technology,Accessories,Mechanical Keyboard,2104.34,5,0.0,125.65
+CA-2018-100284,2017-05-24,2017-05-31,First Class,CUST-7305,Consumer,United States,Dallas,Texas,90335,South,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,2379.41,5,0.3,765.34
+CA-2016-100285,2016-06-02,2016-06-09,First Class,CUST-4946,Corporate,United States,Phoenix,Arizona,16599,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,2618.39,4,0.0,197.58
+CA-2017-100286,2018-07-06,2018-07-07,Same Day,CUST-8324,Corporate,United States,Los Angeles,California,75191,West,PROD-797682,Technology,Phones,Smartphone X 128GB,1331.24,4,0.0,393.44
+CA-2018-100287,2017-09-15,2017-09-18,Same Day,CUST-6584,Corporate,United States,New York,New York,39218,East,PROD-391017,Office Supplies,Art,Highlighter Pack,2215.28,6,0.3,-291.5
+CA-2016-100288,2017-03-30,2017-03-30,First Class,CUST-6818,Home Office,United States,Phoenix,Arizona,81786,West,PROD-245086,Technology,Machines,All-in-One Printer,502.61,1,0.3,-58.17
+CA-2017-100289,2018-04-18,2018-04-19,First Class,CUST-4209,Consumer,United States,Los Angeles,California,61497,West,PROD-266564,Furniture,Furnishings,Desk Lamp,1149.36,6,0.3,-197.8
+CA-2018-100290,2016-09-09,2016-09-16,Same Day,CUST-9260,Consumer,United States,San Diego,California,10568,West,PROD-181520,Technology,Phones,Cordless Office Phone,1750.19,5,0.1,376.45
+CA-2016-100291,2016-12-21,2016-12-23,Second Class,CUST-7347,Home Office,United States,San Jose,California,89450,West,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,2821.33,4,0.1,-101.12
+CA-2017-100292,2017-12-03,2017-12-07,Same Day,CUST-3185,Consumer,United States,San Antonio,Texas,88974,South,PROD-598119,Technology,Machines,Inkjet Printer,3190.16,6,0.1,-253.51
+CA-2018-100293,2017-08-18,2017-08-23,Standard Class,CUST-3913,Home Office,United States,Dallas,Texas,93476,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,949.23,3,0.3,194.16
+CA-2016-100294,2018-12-29,2019-01-02,Same Day,CUST-1209,Home Office,United States,Los Angeles,California,13312,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,240.0,6,0.2,60.03
+CA-2017-100295,2016-11-25,2016-11-29,First Class,CUST-3399,Consumer,United States,Phoenix,Arizona,36738,West,PROD-181520,Technology,Phones,Cordless Office Phone,311.3,4,0.1,76.41
+CA-2018-100296,2018-03-07,2018-03-10,First Class,CUST-1769,Corporate,United States,San Antonio,Texas,64600,South,PROD-245086,Technology,Machines,All-in-One Printer,536.6,1,0.1,92.48
+CA-2016-100297,2018-06-26,2018-06-29,First Class,CUST-9955,Home Office,United States,San Jose,California,35751,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,584.21,4,0.0,-51.3
+CA-2017-100298,2016-12-21,2016-12-22,Same Day,CUST-1665,Corporate,United States,Phoenix,Arizona,82954,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,3387.91,5,0.0,-5.63
+CA-2018-100299,2016-11-13,2016-11-13,Standard Class,CUST-6285,Home Office,United States,New York,New York,91968,East,PROD-598119,Technology,Machines,Inkjet Printer,2211.89,5,0.0,598.14
+CA-2016-100300,2017-10-12,2017-10-15,Standard Class,CUST-9529,Consumer,United States,Dallas,Texas,30889,South,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,254.5,1,0.1,50.39
+CA-2017-100301,2017-11-09,2017-11-14,First Class,CUST-4579,Home Office,United States,Dallas,Texas,72240,South,PROD-797682,Technology,Phones,Smartphone X 128GB,1512.41,6,0.1,518.3
+CA-2018-100302,2017-05-14,2017-05-14,First Class,CUST-7248,Consumer,United States,San Antonio,Texas,43631,South,PROD-245086,Technology,Machines,All-in-One Printer,2634.31,5,0.2,286.05
+CA-2016-100303,2018-11-07,2018-11-14,Same Day,CUST-1718,Corporate,United States,Houston,Texas,51984,South,PROD-797682,Technology,Phones,Smartphone X 128GB,1554.89,2,0.0,273.91
+CA-2017-100304,2017-03-07,2017-03-10,Same Day,CUST-2702,Consumer,United States,Dallas,Texas,67047,South,PROD-797682,Technology,Phones,Smartphone X 128GB,296.07,1,0.2,-52.48
+CA-2018-100305,2016-05-30,2016-05-30,Standard Class,CUST-5127,Home Office,United States,Los Angeles,California,85361,West,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1018.21,4,0.3,60.9
+CA-2016-100306,2016-02-04,2016-02-10,Second Class,CUST-9762,Consumer,United States,San Jose,California,18288,West,PROD-797682,Technology,Phones,Smartphone X 128GB,2228.39,3,0.0,-58.16
+CA-2017-100307,2017-09-09,2017-09-10,First Class,CUST-8170,Corporate,United States,San Antonio,Texas,96602,South,PROD-266564,Furniture,Furnishings,Desk Lamp,629.28,5,0.3,174.98
+CA-2018-100308,2017-08-27,2017-08-29,First Class,CUST-7113,Consumer,United States,Dallas,Texas,82754,South,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,322.22,1,0.3,39.4
+CA-2016-100309,2016-06-23,2016-06-27,Standard Class,CUST-6633,Consumer,United States,San Antonio,Texas,94663,South,PROD-913145,Technology,Accessories,Wireless Mouse,288.84,2,0.2,-24.09
+CA-2017-100310,2017-01-06,2017-01-06,Same Day,CUST-2198,Corporate,United States,Los Angeles,California,42858,West,PROD-472516,Furniture,Chairs,Mesh Task Chair,1569.27,5,0.2,22.41
+CA-2018-100311,2017-04-25,2017-04-26,First Class,CUST-2143,Consumer,United States,Philadelphia,Pennsylvania,73682,East,PROD-391017,Office Supplies,Art,Highlighter Pack,2253.19,6,0.2,641.3
+CA-2016-100312,2018-05-27,2018-05-29,Second Class,CUST-6131,Consumer,United States,Houston,Texas,93995,South,PROD-391017,Office Supplies,Art,Highlighter Pack,872.43,2,0.2,285.05
+CA-2017-100313,2018-08-05,2018-08-12,First Class,CUST-6004,Corporate,United States,Dallas,Texas,24264,South,PROD-044240,Furniture,Storage,Plastic Storage Box,1856.73,3,0.1,621.59
+CA-2018-100314,2017-02-06,2017-02-10,Second Class,CUST-2235,Consumer,United States,Dallas,Texas,92788,South,PROD-034706,Furniture,Storage,Mobile File Cart,870.72,5,0.0,114.03
+CA-2016-100315,2018-08-24,2018-08-26,First Class,CUST-7430,Consumer,United States,San Jose,California,48141,West,PROD-728041,Furniture,Furnishings,Picture Frame Set,307.96,5,0.2,31.2
+CA-2017-100316,2017-05-04,2017-05-06,Standard Class,CUST-8310,Consumer,United States,Chicago,Illinois,84233,Central,PROD-444595,Technology,Accessories,Mechanical Keyboard,77.98,3,0.3,-4.75
+CA-2018-100317,2017-06-25,2017-06-30,Standard Class,CUST-1701,Home Office,United States,Houston,Texas,77880,South,PROD-316180,Office Supplies,Storage,Mobile File Cart,2823.34,4,0.0,1096.46
+CA-2016-100318,2017-10-25,2017-10-26,First Class,CUST-5314,Home Office,United States,Dallas,Texas,84732,South,PROD-728041,Furniture,Furnishings,Picture Frame Set,1181.64,4,0.0,129.98
+CA-2017-100319,2018-02-09,2018-02-12,Same Day,CUST-6781,Corporate,United States,San Diego,California,73191,West,PROD-797682,Technology,Phones,Smartphone X 128GB,546.63,4,0.0,59.43
+CA-2018-100320,2017-07-29,2017-08-01,Standard Class,CUST-4062,Consumer,United States,Philadelphia,Pennsylvania,88908,East,PROD-797682,Technology,Phones,Smartphone X 128GB,2599.53,4,0.0,231.12
+CA-2016-100321,2018-09-07,2018-09-14,Standard Class,CUST-3641,Home Office,United States,San Antonio,Texas,12942,South,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,2141.62,5,0.1,380.62
+CA-2017-100322,2016-03-21,2016-03-23,Second Class,CUST-3725,Corporate,United States,Chicago,Illinois,77717,Central,PROD-173509,Office Supplies,Appliances,Office Shredder,2801.95,6,0.2,1032.1
+CA-2018-100323,2017-03-19,2017-03-26,Same Day,CUST-8891,Consumer,United States,Houston,Texas,63840,South,PROD-913145,Technology,Accessories,Wireless Mouse,2117.68,5,0.2,-210.43
+CA-2016-100324,2017-12-02,2017-12-09,Second Class,CUST-4765,Corporate,United States,San Antonio,Texas,27329,South,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,2409.31,5,0.3,712.94
+CA-2017-100325,2016-07-16,2016-07-18,Same Day,CUST-1639,Home Office,United States,Dallas,Texas,25403,South,PROD-728041,Furniture,Furnishings,Picture Frame Set,1444.16,2,0.0,488.39
+CA-2018-100326,2018-06-02,2018-06-08,First Class,CUST-1711,Home Office,United States,Dallas,Texas,66224,South,PROD-293155,Furniture,Furnishings,Wall Clock,1419.88,3,0.0,78.51
+CA-2016-100327,2017-06-05,2017-06-12,Standard Class,CUST-2373,Corporate,United States,San Jose,California,81267,West,PROD-389073,Office Supplies,Art,Dry Erase Markers,568.77,1,0.0,83.49
+CA-2017-100328,2016-08-29,2016-08-29,Same Day,CUST-4365,Home Office,United States,Philadelphia,Pennsylvania,63588,East,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,1673.61,4,0.2,-72.33
+CA-2018-100329,2019-01-02,2019-01-08,First Class,CUST-5514,Home Office,United States,San Antonio,Texas,36698,South,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,419.05,2,0.3,-20.0
+CA-2016-100330,2017-09-20,2017-09-25,Same Day,CUST-3262,Home Office,United States,Los Angeles,California,40116,West,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,122.85,1,0.3,33.37
+CA-2017-100331,2016-04-16,2016-04-18,Same Day,CUST-1086,Consumer,United States,Chicago,Illinois,71822,Central,PROD-844518,Technology,Copiers,Commercial Copier 3000,171.33,1,0.2,-26.04
+CA-2018-100332,2016-03-18,2016-03-24,Same Day,CUST-9536,Corporate,United States,San Jose,California,17531,West,PROD-293155,Furniture,Furnishings,Wall Clock,132.29,1,0.2,-11.0
+CA-2016-100333,2018-11-11,2018-11-14,Standard Class,CUST-1590,Corporate,United States,Houston,Texas,95854,South,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,1499.62,3,0.2,302.62
+CA-2017-100334,2018-04-10,2018-04-13,Second Class,CUST-2124,Consumer,United States,Dallas,Texas,47289,South,PROD-598119,Technology,Machines,Inkjet Printer,499.24,3,0.1,36.37
+CA-2018-100335,2018-04-07,2018-04-07,First Class,CUST-3867,Corporate,United States,Dallas,Texas,23954,South,PROD-181520,Technology,Phones,Cordless Office Phone,1818.91,3,0.2,592.36
+CA-2016-100336,2017-05-27,2017-06-03,Same Day,CUST-8923,Consumer,United States,Philadelphia,Pennsylvania,70142,East,PROD-844518,Technology,Copiers,Commercial Copier 3000,389.73,4,0.0,11.54
+CA-2017-100337,2017-03-27,2017-03-30,First Class,CUST-7757,Corporate,United States,Dallas,Texas,80208,South,PROD-000013,Furniture,Tables,Office Desk Table,189.46,3,0.2,-29.25
+CA-2018-100338,2016-12-31,2017-01-07,First Class,CUST-6792,Consumer,United States,San Jose,California,45268,West,PROD-244766,Furniture,Chairs,Executive Leather Chair,884.17,6,0.1,286.16
+CA-2016-100339,2017-02-27,2017-03-02,Standard Class,CUST-5091,Home Office,United States,Philadelphia,Pennsylvania,30446,East,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,3212.35,6,0.3,540.63
+CA-2017-100340,2016-03-27,2016-04-03,First Class,CUST-6167,Corporate,United States,San Jose,California,46009,West,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,653.63,4,0.1,-109.49
+CA-2018-100341,2018-05-16,2018-05-23,Second Class,CUST-9232,Corporate,United States,San Antonio,Texas,99959,South,PROD-266564,Furniture,Furnishings,Desk Lamp,2001.47,6,0.2,427.37
+CA-2016-100342,2016-01-25,2016-01-28,Same Day,CUST-2650,Corporate,United States,Philadelphia,Pennsylvania,90318,East,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,350.69,2,0.2,6.86
+CA-2017-100343,2018-10-18,2018-10-24,Standard Class,CUST-7866,Home Office,United States,Philadelphia,Pennsylvania,57851,East,PROD-391017,Office Supplies,Art,Highlighter Pack,826.69,2,0.1,238.51
+CA-2018-100344,2017-07-06,2017-07-09,Same Day,CUST-7240,Consumer,United States,Chicago,Illinois,29601,Central,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,1286.98,4,0.2,349.03
+CA-2016-100345,2017-09-06,2017-09-10,Second Class,CUST-7527,Consumer,United States,Chicago,Illinois,17869,Central,PROD-344928,Furniture,Tables,Adjustable Standing Desk,391.49,6,0.2,-17.28
+CA-2017-100346,2018-01-07,2018-01-11,First Class,CUST-1324,Corporate,United States,Los Angeles,California,56018,West,PROD-913145,Technology,Accessories,Wireless Mouse,603.35,3,0.3,159.8
+CA-2018-100347,2018-07-04,2018-07-05,Same Day,CUST-5694,Corporate,United States,Chicago,Illinois,31964,Central,PROD-598119,Technology,Machines,Inkjet Printer,2065.5,6,0.3,638.94
+CA-2016-100348,2016-05-26,2016-05-27,Standard Class,CUST-6629,Consumer,United States,Philadelphia,Pennsylvania,51533,East,PROD-598119,Technology,Machines,Inkjet Printer,2069.97,5,0.2,688.5
+CA-2017-100349,2018-01-13,2018-01-20,Same Day,CUST-3741,Consumer,United States,New York,New York,26389,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,3372.32,6,0.0,-248.4
+CA-2018-100350,2018-03-24,2018-03-25,Second Class,CUST-2045,Corporate,United States,Dallas,Texas,17055,South,PROD-728041,Furniture,Furnishings,Picture Frame Set,78.86,1,0.1,-11.78
+CA-2016-100351,2018-03-09,2018-03-13,Standard Class,CUST-5053,Home Office,United States,Phoenix,Arizona,68085,West,PROD-913145,Technology,Accessories,Wireless Mouse,3358.11,5,0.0,-600.79
+CA-2017-100352,2017-12-31,2018-01-05,Same Day,CUST-8654,Home Office,United States,Phoenix,Arizona,81898,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,1680.28,5,0.3,191.68
+CA-2018-100353,2018-12-29,2019-01-02,First Class,CUST-8891,Home Office,United States,Houston,Texas,21738,South,PROD-391017,Office Supplies,Art,Highlighter Pack,676.95,4,0.2,-131.1
+CA-2016-100354,2018-12-07,2018-12-09,First Class,CUST-5698,Corporate,United States,Dallas,Texas,11090,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,25.75,3,0.3,7.18
+CA-2017-100355,2017-04-18,2017-04-18,First Class,CUST-4089,Corporate,United States,Dallas,Texas,67292,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,2482.24,6,0.3,737.36
+CA-2018-100356,2017-03-27,2017-03-31,Second Class,CUST-7917,Home Office,United States,Houston,Texas,77713,South,PROD-598119,Technology,Machines,Inkjet Printer,2859.01,6,0.2,136.5
+CA-2016-100357,2016-05-20,2016-05-22,Standard Class,CUST-5744,Consumer,United States,San Diego,California,90967,West,PROD-391017,Office Supplies,Art,Highlighter Pack,467.84,2,0.1,-79.64
+CA-2017-100358,2018-12-31,2018-12-31,Standard Class,CUST-2675,Corporate,United States,Phoenix,Arizona,26389,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,153.41,2,0.0,14.75
+CA-2018-100359,2017-12-01,2017-12-07,First Class,CUST-9165,Corporate,United States,San Diego,California,14159,West,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,151.81,1,0.3,-23.86
+CA-2016-100360,2018-08-20,2018-08-22,Standard Class,CUST-5097,Corporate,United States,New York,New York,25985,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,805.98,4,0.0,-64.88
+CA-2017-100361,2016-07-11,2016-07-14,Same Day,CUST-7375,Home Office,United States,Phoenix,Arizona,52344,West,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,930.19,3,0.2,-75.13
+CA-2018-100362,2016-04-16,2016-04-19,Second Class,CUST-4866,Home Office,United States,San Antonio,Texas,52534,South,PROD-244766,Furniture,Chairs,Executive Leather Chair,450.55,5,0.1,-87.7
+CA-2016-100363,2016-03-27,2016-04-03,Standard Class,CUST-7084,Consumer,United States,Houston,Texas,30669,South,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,253.16,6,0.2,47.28
+CA-2017-100364,2019-01-03,2019-01-04,Standard Class,CUST-8992,Consumer,United States,Philadelphia,Pennsylvania,83184,East,PROD-598119,Technology,Machines,Inkjet Printer,665.31,6,0.3,9.91
+CA-2018-100365,2016-10-02,2016-10-06,Second Class,CUST-8951,Home Office,United States,San Diego,California,83272,West,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,728.84,2,0.2,-4.22
+CA-2016-100366,2018-08-17,2018-08-21,Standard Class,CUST-2128,Home Office,United States,Chicago,Illinois,68901,Central,PROD-391017,Office Supplies,Art,Highlighter Pack,15.6,4,0.3,3.75
+CA-2017-100367,2016-02-08,2016-02-13,Standard Class,CUST-6254,Home Office,United States,Los Angeles,California,96283,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,2466.73,5,0.1,413.98
+CA-2018-100368,2017-10-22,2017-10-28,First Class,CUST-2809,Consumer,United States,Dallas,Texas,96362,South,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,1258.97,2,0.1,-170.93
+CA-2016-100369,2017-01-27,2017-01-28,Second Class,CUST-7366,Home Office,United States,San Diego,California,78920,West,PROD-245086,Technology,Machines,All-in-One Printer,541.42,3,0.0,-104.03
+CA-2017-100370,2017-03-03,2017-03-10,Second Class,CUST-8668,Home Office,United States,New York,New York,57307,East,PROD-844518,Technology,Copiers,Commercial Copier 3000,246.47,6,0.2,28.94
+CA-2018-100371,2016-05-24,2016-05-28,Second Class,CUST-4537,Home Office,United States,Los Angeles,California,23267,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,285.35,2,0.1,40.52
+CA-2016-100372,2017-01-01,2017-01-07,Second Class,CUST-6864,Home Office,United States,San Diego,California,97194,West,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,707.56,2,0.2,137.63
+CA-2017-100373,2018-12-29,2019-01-05,First Class,CUST-6163,Home Office,United States,Philadelphia,Pennsylvania,58722,East,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1415.57,6,0.1,195.19
+CA-2018-100374,2017-03-14,2017-03-20,First Class,CUST-6898,Corporate,United States,San Diego,California,62047,West,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,80.82,5,0.1,32.01
+CA-2016-100375,2017-09-10,2017-09-10,First Class,CUST-4635,Consumer,United States,Philadelphia,Pennsylvania,12844,East,PROD-245086,Technology,Machines,All-in-One Printer,28.0,1,0.2,-2.98
+CA-2017-100376,2017-06-26,2017-07-01,Standard Class,CUST-4817,Corporate,United States,Phoenix,Arizona,22046,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,318.6,6,0.2,87.85
+CA-2018-100377,2016-12-20,2016-12-27,Second Class,CUST-5921,Consumer,United States,San Jose,California,60010,West,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,1479.31,3,0.3,73.84
+CA-2016-100378,2016-09-03,2016-09-06,Second Class,CUST-7266,Consumer,United States,Phoenix,Arizona,78731,West,PROD-000013,Furniture,Tables,Office Desk Table,1091.91,3,0.1,-118.02
+CA-2017-100379,2018-03-15,2018-03-22,Second Class,CUST-4638,Corporate,United States,Phoenix,Arizona,61684,West,PROD-244766,Furniture,Chairs,Executive Leather Chair,383.3,1,0.0,49.4
+CA-2018-100380,2017-06-21,2017-06-22,Same Day,CUST-9221,Corporate,United States,Chicago,Illinois,27677,Central,PROD-173509,Office Supplies,Appliances,Office Shredder,1149.4,4,0.1,157.12
+CA-2016-100381,2018-12-09,2018-12-12,Standard Class,CUST-2173,Corporate,United States,San Antonio,Texas,52390,South,PROD-797682,Technology,Phones,Smartphone X 128GB,1602.23,6,0.2,14.4
+CA-2017-100382,2017-10-18,2017-10-23,Second Class,CUST-5994,Consumer,United States,Philadelphia,Pennsylvania,90769,East,PROD-173509,Office Supplies,Appliances,Office Shredder,146.44,4,0.1,-11.74
+CA-2018-100383,2018-02-04,2018-02-06,Second Class,CUST-2841,Home Office,United States,New York,New York,41856,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,277.9,1,0.0,-4.7
+CA-2016-100384,2018-08-22,2018-08-22,First Class,CUST-4424,Home Office,United States,Dallas,Texas,37770,South,PROD-034706,Furniture,Storage,Mobile File Cart,1750.53,5,0.1,379.94
+CA-2017-100385,2016-02-07,2016-02-13,Second Class,CUST-5185,Consumer,United States,New York,New York,47226,East,PROD-034706,Furniture,Storage,Mobile File Cart,374.64,1,0.0,-59.96
+CA-2018-100386,2017-07-09,2017-07-14,Second Class,CUST-1312,Corporate,United States,San Antonio,Texas,40299,South,PROD-173509,Office Supplies,Appliances,Office Shredder,1170.92,3,0.0,-103.22
+CA-2016-100387,2018-10-22,2018-10-29,Second Class,CUST-1651,Consumer,United States,Dallas,Texas,49967,South,PROD-316180,Office Supplies,Storage,Mobile File Cart,623.13,6,0.2,131.22
+CA-2017-100388,2017-12-28,2018-01-01,Standard Class,CUST-9212,Corporate,United States,New York,New York,92023,East,PROD-943888,Office Supplies,Storage,Plastic Storage Box,3417.96,5,0.1,-372.47
+CA-2018-100389,2018-03-15,2018-03-17,Second Class,CUST-7262,Home Office,United States,San Jose,California,91988,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,644.64,2,0.3,246.46
+CA-2016-100390,2017-11-05,2017-11-12,Standard Class,CUST-4387,Home Office,United States,Chicago,Illinois,86156,Central,PROD-913145,Technology,Accessories,Wireless Mouse,1491.43,3,0.1,86.56
+CA-2017-100391,2016-10-24,2016-10-26,First Class,CUST-2111,Home Office,United States,Dallas,Texas,25517,South,PROD-000013,Furniture,Tables,Office Desk Table,136.51,6,0.2,44.79
+CA-2018-100392,2018-04-27,2018-05-03,First Class,CUST-8258,Home Office,United States,Phoenix,Arizona,29917,West,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,41.32,2,0.2,6.75
+CA-2016-100393,2017-04-17,2017-04-20,Standard Class,CUST-1427,Corporate,United States,Los Angeles,California,72469,West,PROD-034706,Furniture,Storage,Mobile File Cart,2815.6,6,0.1,876.43
+CA-2017-100394,2018-10-03,2018-10-10,Standard Class,CUST-3683,Consumer,United States,Houston,Texas,14224,South,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,654.95,4,0.1,166.79
+CA-2018-100395,2016-05-15,2016-05-17,Same Day,CUST-9027,Home Office,United States,Philadelphia,Pennsylvania,69971,East,PROD-293155,Furniture,Furnishings,Wall Clock,341.81,1,0.3,79.34
+CA-2016-100396,2018-03-18,2018-03-18,Second Class,CUST-8399,Corporate,United States,New York,New York,42207,East,PROD-844518,Technology,Copiers,Commercial Copier 3000,1564.91,5,0.0,-134.72
+CA-2017-100397,2018-06-19,2018-06-25,First Class,CUST-5684,Corporate,United States,Chicago,Illinois,65372,Central,PROD-173509,Office Supplies,Appliances,Office Shredder,2246.35,6,0.1,175.55
+CA-2018-100398,2018-07-14,2018-07-15,Second Class,CUST-3945,Home Office,United States,Dallas,Texas,27734,South,PROD-316180,Office Supplies,Storage,Mobile File Cart,69.45,4,0.3,10.71
+CA-2016-100399,2017-02-17,2017-02-24,Second Class,CUST-5097,Corporate,United States,Chicago,Illinois,26193,Central,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,1232.87,6,0.3,291.11
+CA-2017-100400,2018-11-13,2018-11-15,Same Day,CUST-7235,Consumer,United States,Chicago,Illinois,53934,Central,PROD-913145,Technology,Accessories,Wireless Mouse,294.4,2,0.0,15.23
+CA-2018-100401,2017-09-25,2017-10-02,First Class,CUST-3960,Consumer,United States,Chicago,Illinois,36588,Central,PROD-034706,Furniture,Storage,Mobile File Cart,258.73,1,0.3,32.63
+CA-2016-100402,2016-01-12,2016-01-19,Standard Class,CUST-4553,Home Office,United States,San Diego,California,69472,West,PROD-943888,Office Supplies,Storage,Plastic Storage Box,2169.37,5,0.1,714.38
+CA-2017-100403,2017-07-23,2017-07-26,Second Class,CUST-4028,Consumer,United States,New York,New York,95626,East,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,428.21,1,0.2,-0.57
+CA-2018-100404,2016-06-28,2016-06-28,Second Class,CUST-7831,Consumer,United States,Chicago,Illinois,98092,Central,PROD-173509,Office Supplies,Appliances,Office Shredder,1922.31,4,0.2,689.89
+CA-2016-100405,2016-07-09,2016-07-13,First Class,CUST-7038,Corporate,United States,Los Angeles,California,66010,West,PROD-181520,Technology,Phones,Cordless Office Phone,358.28,4,0.2,-0.89
+CA-2017-100406,2018-04-27,2018-04-30,Standard Class,CUST-1953,Consumer,United States,San Jose,California,92441,West,PROD-181520,Technology,Phones,Cordless Office Phone,2651.9,6,0.2,149.12
+CA-2018-100407,2017-10-10,2017-10-14,First Class,CUST-3125,Home Office,United States,San Jose,California,75063,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,1273.52,2,0.1,286.74
+CA-2016-100408,2017-01-31,2017-01-31,Second Class,CUST-1392,Corporate,United States,Los Angeles,California,37175,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,243.33,1,0.1,-47.02
+CA-2017-100409,2017-02-16,2017-02-20,First Class,CUST-2111,Corporate,United States,Phoenix,Arizona,76412,West,PROD-245086,Technology,Machines,All-in-One Printer,440.19,1,0.2,16.56
+CA-2018-100410,2016-02-29,2016-03-02,Standard Class,CUST-6415,Corporate,United States,San Diego,California,72193,West,PROD-244766,Furniture,Chairs,Executive Leather Chair,805.8,2,0.2,62.44
+CA-2016-100411,2018-04-27,2018-04-27,First Class,CUST-6169,Home Office,United States,Dallas,Texas,12453,South,PROD-034706,Furniture,Storage,Mobile File Cart,155.63,3,0.1,-4.94
+CA-2017-100412,2016-03-04,2016-03-09,Same Day,CUST-9753,Consumer,United States,San Jose,California,89388,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,1357.65,3,0.2,306.7
+CA-2018-100413,2017-07-10,2017-07-16,Second Class,CUST-9143,Consumer,United States,Philadelphia,Pennsylvania,69232,East,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,188.45,2,0.0,50.25
+CA-2016-100414,2016-07-08,2016-07-15,Second Class,CUST-8907,Home Office,United States,Chicago,Illinois,34931,Central,PROD-316180,Office Supplies,Storage,Mobile File Cart,356.76,3,0.0,104.63
+CA-2017-100415,2018-11-23,2018-11-25,Standard Class,CUST-1598,Corporate,United States,San Antonio,Texas,78464,South,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,551.21,1,0.0,-0.01
+CA-2018-100416,2016-04-04,2016-04-05,First Class,CUST-1368,Home Office,United States,Phoenix,Arizona,93735,West,PROD-000013,Furniture,Tables,Office Desk Table,372.51,2,0.2,98.22
+CA-2016-100417,2016-08-28,2016-09-01,Standard Class,CUST-3580,Corporate,United States,Los Angeles,California,11999,West,PROD-797682,Technology,Phones,Smartphone X 128GB,1134.01,5,0.2,-42.38
+CA-2017-100418,2017-08-03,2017-08-06,Standard Class,CUST-2167,Corporate,United States,San Jose,California,54399,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,56.1,2,0.0,-7.65
+CA-2018-100419,2016-04-20,2016-04-21,Same Day,CUST-7421,Consumer,United States,San Jose,California,87693,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,726.85,3,0.1,165.53
+CA-2016-100420,2018-12-28,2018-12-29,Same Day,CUST-3159,Consumer,United States,San Diego,California,22748,West,PROD-391017,Office Supplies,Art,Highlighter Pack,681.11,4,0.1,-77.49
+CA-2017-100421,2017-06-12,2017-06-17,Same Day,CUST-4004,Home Office,United States,Philadelphia,Pennsylvania,52567,East,PROD-943888,Office Supplies,Storage,Plastic Storage Box,306.31,1,0.2,26.71
+CA-2018-100422,2016-12-15,2016-12-19,First Class,CUST-3087,Home Office,United States,Los Angeles,California,63174,West,PROD-181520,Technology,Phones,Cordless Office Phone,2085.26,5,0.2,249.5
+CA-2016-100423,2018-03-31,2018-04-06,Standard Class,CUST-4992,Home Office,United States,Chicago,Illinois,73225,Central,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,912.89,2,0.3,247.02
+CA-2017-100424,2018-06-10,2018-06-15,Standard Class,CUST-3835,Home Office,United States,Los Angeles,California,85260,West,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,937.22,3,0.3,-88.38
+CA-2018-100425,2018-04-11,2018-04-12,Second Class,CUST-7208,Corporate,United States,San Diego,California,94540,West,PROD-797682,Technology,Phones,Smartphone X 128GB,1309.08,2,0.0,332.83
+CA-2016-100426,2016-11-01,2016-11-08,First Class,CUST-7389,Home Office,United States,San Jose,California,68610,West,PROD-472516,Furniture,Chairs,Mesh Task Chair,583.9,3,0.2,205.01
+CA-2017-100427,2018-06-09,2018-06-14,Second Class,CUST-1133,Home Office,United States,Dallas,Texas,62978,South,PROD-000013,Furniture,Tables,Office Desk Table,2164.07,3,0.0,-431.72
+CA-2018-100428,2018-01-05,2018-01-06,First Class,CUST-1510,Consumer,United States,San Antonio,Texas,87353,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1299.13,6,0.3,79.4
+CA-2016-100429,2017-03-08,2017-03-10,Same Day,CUST-3278,Consumer,United States,Dallas,Texas,60409,South,PROD-943888,Office Supplies,Storage,Plastic Storage Box,2154.54,3,0.1,-257.32
+CA-2017-100430,2016-05-26,2016-05-26,Standard Class,CUST-8974,Home Office,United States,San Antonio,Texas,27796,South,PROD-472516,Furniture,Chairs,Mesh Task Chair,1928.7,4,0.3,335.5
+CA-2018-100431,2018-07-19,2018-07-25,Same Day,CUST-7303,Corporate,United States,Houston,Texas,34352,South,PROD-173509,Office Supplies,Appliances,Office Shredder,1804.66,5,0.1,410.16
+CA-2016-100432,2017-07-05,2017-07-11,First Class,CUST-1548,Consumer,United States,San Jose,California,73342,West,PROD-245086,Technology,Machines,All-in-One Printer,1939.09,5,0.0,-222.51
+CA-2017-100433,2018-12-14,2018-12-18,Same Day,CUST-9469,Consumer,United States,Dallas,Texas,89963,South,PROD-244766,Furniture,Chairs,Executive Leather Chair,3567.84,6,0.0,750.83
+CA-2018-100434,2017-10-01,2017-10-01,First Class,CUST-9765,Consumer,United States,San Diego,California,69511,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,913.81,4,0.2,-24.19
+CA-2016-100435,2016-03-13,2016-03-17,First Class,CUST-2006,Home Office,United States,San Diego,California,85778,West,PROD-044240,Furniture,Storage,Plastic Storage Box,4754.04,6,0.0,-132.69
+CA-2017-100436,2016-06-17,2016-06-19,Second Class,CUST-5552,Corporate,United States,Chicago,Illinois,90713,Central,PROD-391017,Office Supplies,Art,Highlighter Pack,534.99,1,0.1,185.15
+CA-2018-100437,2016-11-05,2016-11-12,First Class,CUST-3873,Corporate,United States,Houston,Texas,73559,South,PROD-044240,Furniture,Storage,Plastic Storage Box,2125.81,3,0.1,334.45
+CA-2016-100438,2016-11-11,2016-11-18,Same Day,CUST-7277,Consumer,United States,San Diego,California,93568,West,PROD-472516,Furniture,Chairs,Mesh Task Chair,4045.54,6,0.0,749.87
+CA-2017-100439,2016-08-25,2016-08-25,Standard Class,CUST-8602,Corporate,United States,San Diego,California,49500,West,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1535.49,4,0.3,130.14
+CA-2018-100440,2016-10-24,2016-10-30,Second Class,CUST-5731,Corporate,United States,San Antonio,Texas,98931,South,PROD-173509,Office Supplies,Appliances,Office Shredder,587.66,1,0.2,219.61
+CA-2016-100441,2018-06-03,2018-06-07,First Class,CUST-5429,Corporate,United States,Los Angeles,California,43468,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,3242.85,6,0.1,363.11
+CA-2017-100442,2017-01-03,2017-01-08,Second Class,CUST-1138,Consumer,United States,New York,New York,63903,East,PROD-044240,Furniture,Storage,Plastic Storage Box,1941.43,6,0.1,456.53
+CA-2018-100443,2017-05-30,2017-06-02,Second Class,CUST-1388,Home Office,United States,Los Angeles,California,17455,West,PROD-913145,Technology,Accessories,Wireless Mouse,4598.68,6,0.0,1443.36
+CA-2016-100444,2016-09-23,2016-09-29,Standard Class,CUST-2816,Home Office,United States,Chicago,Illinois,43205,Central,PROD-943888,Office Supplies,Storage,Plastic Storage Box,1754.34,6,0.2,458.96
+CA-2017-100445,2017-10-24,2017-10-28,Standard Class,CUST-2212,Corporate,United States,New York,New York,60174,East,PROD-389073,Office Supplies,Art,Dry Erase Markers,1835.3,3,0.2,-171.13
+CA-2018-100446,2016-05-22,2016-05-29,Standard Class,CUST-7432,Consumer,United States,San Diego,California,24212,West,PROD-034706,Furniture,Storage,Mobile File Cart,986.21,2,0.0,342.77
+CA-2016-100447,2017-06-14,2017-06-15,Second Class,CUST-2194,Consumer,United States,San Jose,California,42846,West,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,1048.06,2,0.0,377.03
+CA-2017-100448,2018-03-10,2018-03-14,Standard Class,CUST-6403,Corporate,United States,San Jose,California,10485,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,1304.44,4,0.0,161.85
+CA-2018-100449,2016-01-07,2016-01-13,Same Day,CUST-2985,Home Office,United States,Dallas,Texas,57044,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,195.52,4,0.0,3.76
+CA-2016-100450,2017-11-27,2017-11-28,Same Day,CUST-5750,Home Office,United States,Houston,Texas,33149,South,PROD-181520,Technology,Phones,Cordless Office Phone,658.76,6,0.3,222.58
+CA-2017-100451,2018-01-05,2018-01-12,Second Class,CUST-8175,Home Office,United States,Houston,Texas,28342,South,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,4304.47,6,0.1,402.64
+CA-2018-100452,2016-05-09,2016-05-13,Same Day,CUST-9748,Corporate,United States,New York,New York,14855,East,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,234.23,6,0.0,-17.1
+CA-2016-100453,2018-12-07,2018-12-14,Standard Class,CUST-4817,Consumer,United States,New York,New York,28558,East,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,2904.83,4,0.0,-158.0
+CA-2017-100454,2016-09-24,2016-09-24,Standard Class,CUST-1818,Corporate,United States,Los Angeles,California,69793,West,PROD-913145,Technology,Accessories,Wireless Mouse,86.2,1,0.1,-13.98
+CA-2018-100455,2017-02-19,2017-02-25,First Class,CUST-7586,Corporate,United States,Los Angeles,California,99664,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,1102.61,2,0.1,1.44
+CA-2016-100456,2016-09-04,2016-09-08,Standard Class,CUST-7801,Consumer,United States,Philadelphia,Pennsylvania,82536,East,PROD-266564,Furniture,Furnishings,Desk Lamp,186.78,5,0.0,51.3
+CA-2017-100457,2018-02-09,2018-02-11,Second Class,CUST-8978,Consumer,United States,New York,New York,10946,East,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,1557.74,4,0.3,335.56
+CA-2018-100458,2017-02-26,2017-02-28,First Class,CUST-9570,Corporate,United States,San Antonio,Texas,41359,South,PROD-044240,Furniture,Storage,Plastic Storage Box,518.35,5,0.3,86.68
+CA-2016-100459,2016-06-29,2016-07-03,First Class,CUST-7861,Consumer,United States,Dallas,Texas,40885,South,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,1317.2,5,0.1,103.44
+CA-2017-100460,2017-03-02,2017-03-06,Second Class,CUST-4173,Consumer,United States,Chicago,Illinois,99816,Central,PROD-943888,Office Supplies,Storage,Plastic Storage Box,1075.53,2,0.0,-180.24
+CA-2018-100461,2018-01-15,2018-01-19,Standard Class,CUST-8121,Corporate,United States,Philadelphia,Pennsylvania,90847,East,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,252.2,6,0.1,-26.52
+CA-2016-100462,2016-02-29,2016-03-07,Second Class,CUST-2160,Consumer,United States,San Diego,California,87687,West,PROD-598119,Technology,Machines,Inkjet Printer,958.29,2,0.2,-59.38
+CA-2017-100463,2016-08-13,2016-08-18,Standard Class,CUST-2606,Consumer,United States,San Antonio,Texas,36208,South,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,1880.59,4,0.0,628.67
+CA-2018-100464,2016-10-23,2016-10-26,Same Day,CUST-3917,Corporate,United States,Philadelphia,Pennsylvania,27878,East,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1392.38,6,0.2,-109.54
+CA-2016-100465,2016-09-17,2016-09-17,Second Class,CUST-5597,Consumer,United States,Los Angeles,California,71018,West,PROD-943888,Office Supplies,Storage,Plastic Storage Box,431.48,3,0.2,69.98
+CA-2017-100466,2016-12-14,2016-12-17,Second Class,CUST-7745,Home Office,United States,San Diego,California,38369,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,34.71,3,0.3,8.39
+CA-2018-100467,2017-05-20,2017-05-23,First Class,CUST-8114,Home Office,United States,Houston,Texas,87564,South,PROD-044240,Furniture,Storage,Plastic Storage Box,3136.99,4,0.0,1238.37
+CA-2016-100468,2018-10-29,2018-10-29,Same Day,CUST-9701,Corporate,United States,San Diego,California,22844,West,PROD-943888,Office Supplies,Storage,Plastic Storage Box,449.0,1,0.0,96.94
+CA-2017-100469,2018-04-12,2018-04-15,Standard Class,CUST-6872,Corporate,United States,Houston,Texas,94887,South,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,1038.85,6,0.3,326.98
+CA-2018-100470,2016-02-19,2016-02-26,Same Day,CUST-3271,Home Office,United States,San Antonio,Texas,34241,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,3051.33,6,0.0,94.37
+CA-2016-100471,2017-11-12,2017-11-12,First Class,CUST-7977,Corporate,United States,San Jose,California,81098,West,PROD-913145,Technology,Accessories,Wireless Mouse,3526.37,5,0.0,383.82
+CA-2017-100472,2018-01-15,2018-01-15,Second Class,CUST-7274,Corporate,United States,San Diego,California,91151,West,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1040.59,2,0.0,141.99
+CA-2018-100473,2017-02-23,2017-02-25,First Class,CUST-4909,Home Office,United States,Los Angeles,California,95070,West,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,2927.54,6,0.2,34.04
+CA-2016-100474,2017-07-01,2017-07-07,First Class,CUST-1892,Consumer,United States,Philadelphia,Pennsylvania,55249,East,PROD-943888,Office Supplies,Storage,Plastic Storage Box,1821.8,4,0.2,129.69
+CA-2017-100475,2018-01-23,2018-01-24,Standard Class,CUST-8501,Consumer,United States,Los Angeles,California,61207,West,PROD-000013,Furniture,Tables,Office Desk Table,135.99,1,0.0,29.68
+CA-2018-100476,2018-10-13,2018-10-15,Standard Class,CUST-9530,Home Office,United States,New York,New York,48426,East,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,785.75,4,0.3,190.64
+CA-2016-100477,2016-02-13,2016-02-17,Standard Class,CUST-2031,Consumer,United States,Houston,Texas,78107,South,PROD-598119,Technology,Machines,Inkjet Printer,1110.08,5,0.2,101.78
+CA-2017-100478,2018-12-21,2018-12-28,Same Day,CUST-5982,Home Office,United States,Chicago,Illinois,50172,Central,PROD-000013,Furniture,Tables,Office Desk Table,962.12,4,0.2,251.93
+CA-2018-100479,2016-04-06,2016-04-08,First Class,CUST-5659,Corporate,United States,Chicago,Illinois,91085,Central,PROD-034706,Furniture,Storage,Mobile File Cart,1401.66,2,0.1,-144.72
+CA-2016-100480,2016-08-27,2016-08-27,First Class,CUST-3072,Corporate,United States,Phoenix,Arizona,58453,West,PROD-472516,Furniture,Chairs,Mesh Task Chair,156.37,6,0.2,60.49
+CA-2017-100481,2016-10-29,2016-11-03,Same Day,CUST-9845,Consumer,United States,Dallas,Texas,49526,South,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,1724.72,4,0.3,615.18
+CA-2018-100482,2016-11-15,2016-11-15,First Class,CUST-5842,Corporate,United States,Phoenix,Arizona,85199,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,1161.03,3,0.3,394.87
+CA-2016-100483,2016-10-12,2016-10-13,First Class,CUST-1406,Corporate,United States,San Jose,California,38883,West,PROD-389073,Office Supplies,Art,Dry Erase Markers,131.63,3,0.1,19.75
+CA-2017-100484,2017-03-30,2017-04-03,Standard Class,CUST-1369,Consumer,United States,Dallas,Texas,68387,South,PROD-181520,Technology,Phones,Cordless Office Phone,789.84,2,0.0,272.55
+CA-2018-100485,2018-01-09,2018-01-15,Standard Class,CUST-8006,Corporate,United States,San Antonio,Texas,58867,South,PROD-344928,Furniture,Tables,Adjustable Standing Desk,524.85,3,0.3,170.36
+CA-2016-100486,2016-06-28,2016-07-01,Same Day,CUST-7809,Corporate,United States,Phoenix,Arizona,31468,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,1338.46,2,0.0,-152.34
+CA-2017-100487,2017-09-13,2017-09-20,First Class,CUST-2083,Home Office,United States,San Antonio,Texas,21593,South,PROD-728041,Furniture,Furnishings,Picture Frame Set,702.53,3,0.3,158.88
+CA-2018-100488,2016-10-07,2016-10-10,Standard Class,CUST-7254,Corporate,United States,Dallas,Texas,74302,South,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1258.96,4,0.3,-82.19
+CA-2016-100489,2016-01-06,2016-01-08,First Class,CUST-5917,Home Office,United States,San Diego,California,26276,West,PROD-598119,Technology,Machines,Inkjet Printer,712.89,2,0.1,-130.41
+CA-2017-100490,2017-07-21,2017-07-28,Second Class,CUST-6927,Home Office,United States,San Diego,California,84130,West,PROD-391017,Office Supplies,Art,Highlighter Pack,3146.56,6,0.2,338.3
+CA-2018-100491,2016-02-05,2016-02-09,Standard Class,CUST-1958,Consumer,United States,Philadelphia,Pennsylvania,70429,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,75.27,2,0.2,3.89
+CA-2016-100492,2017-12-30,2017-12-30,First Class,CUST-5778,Home Office,United States,Los Angeles,California,77353,West,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,2413.36,5,0.2,780.64
+CA-2017-100493,2017-09-08,2017-09-12,First Class,CUST-2570,Home Office,United States,San Jose,California,56088,West,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,800.54,5,0.3,37.78
+CA-2018-100494,2016-11-29,2016-11-30,Standard Class,CUST-3532,Home Office,United States,Houston,Texas,34696,South,PROD-181520,Technology,Phones,Cordless Office Phone,2932.98,4,0.0,854.4
+CA-2016-100495,2016-02-05,2016-02-12,First Class,CUST-6104,Home Office,United States,Philadelphia,Pennsylvania,28220,East,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,1138.73,2,0.0,280.9
+CA-2017-100496,2016-08-30,2016-09-02,Standard Class,CUST-3332,Home Office,United States,Houston,Texas,50295,South,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,342.72,1,0.0,-52.56
+CA-2018-100497,2018-09-18,2018-09-24,Second Class,CUST-4217,Consumer,United States,New York,New York,96479,East,PROD-181520,Technology,Phones,Cordless Office Phone,727.28,1,0.0,-116.55
+CA-2016-100498,2016-01-22,2016-01-23,Second Class,CUST-4365,Home Office,United States,Houston,Texas,34219,South,PROD-245086,Technology,Machines,All-in-One Printer,96.57,1,0.2,35.66
+CA-2017-100499,2017-12-13,2017-12-18,Standard Class,CUST-9202,Home Office,United States,San Jose,California,41696,West,PROD-797682,Technology,Phones,Smartphone X 128GB,2753.01,5,0.1,631.78
+CA-2018-100500,2017-07-31,2017-08-02,Second Class,CUST-2616,Consumer,United States,Dallas,Texas,72221,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,2161.81,4,0.0,-197.79
+CA-2016-100501,2017-12-27,2018-01-02,Same Day,CUST-4510,Home Office,United States,Houston,Texas,63422,South,PROD-000013,Furniture,Tables,Office Desk Table,333.72,4,0.1,32.53
+CA-2017-100502,2018-01-09,2018-01-13,Second Class,CUST-2347,Corporate,United States,San Diego,California,25167,West,PROD-391017,Office Supplies,Art,Highlighter Pack,2065.91,5,0.3,-133.2
+CA-2018-100503,2018-04-14,2018-04-18,Same Day,CUST-4093,Consumer,United States,San Diego,California,99015,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,2375.16,6,0.0,89.83
+CA-2016-100504,2018-12-06,2018-12-07,Second Class,CUST-3348,Corporate,United States,San Antonio,Texas,87405,South,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,1872.7,3,0.2,-149.52
+CA-2017-100505,2018-04-07,2018-04-08,Standard Class,CUST-7958,Home Office,United States,San Diego,California,46505,West,PROD-598119,Technology,Machines,Inkjet Printer,804.89,3,0.3,315.93
+CA-2018-100506,2018-11-13,2018-11-17,Standard Class,CUST-8448,Consumer,United States,Los Angeles,California,42858,West,PROD-943888,Office Supplies,Storage,Plastic Storage Box,4525.26,6,0.0,-634.61
+CA-2016-100507,2016-04-18,2016-04-19,Same Day,CUST-1438,Consumer,United States,San Antonio,Texas,89244,South,PROD-245086,Technology,Machines,All-in-One Printer,1498.39,3,0.0,383.74
+CA-2017-100508,2018-11-30,2018-12-07,Same Day,CUST-4308,Corporate,United States,San Diego,California,74258,West,PROD-598119,Technology,Machines,Inkjet Printer,2197.81,5,0.0,866.88
+CA-2018-100509,2016-08-31,2016-09-06,Same Day,CUST-6153,Corporate,United States,San Diego,California,70248,West,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,2116.93,5,0.2,700.32
+CA-2016-100510,2016-12-02,2016-12-09,Same Day,CUST-3203,Corporate,United States,San Antonio,Texas,73891,South,PROD-034706,Furniture,Storage,Mobile File Cart,1870.08,6,0.3,159.98
+CA-2017-100511,2016-11-16,2016-11-16,Same Day,CUST-5315,Corporate,United States,San Jose,California,59518,West,PROD-598119,Technology,Machines,Inkjet Printer,161.5,3,0.0,-19.88
+CA-2018-100512,2018-01-20,2018-01-25,Second Class,CUST-6591,Corporate,United States,Los Angeles,California,66118,West,PROD-391017,Office Supplies,Art,Highlighter Pack,134.67,3,0.1,-6.93
+CA-2016-100513,2017-10-01,2017-10-02,Second Class,CUST-5995,Consumer,United States,Philadelphia,Pennsylvania,32253,East,PROD-034706,Furniture,Storage,Mobile File Cart,260.0,1,0.3,36.62
+CA-2017-100514,2018-05-12,2018-05-16,Second Class,CUST-8695,Home Office,United States,New York,New York,51486,East,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,966.35,3,0.3,-135.26
+CA-2018-100515,2017-02-25,2017-03-02,Same Day,CUST-9237,Home Office,United States,Philadelphia,Pennsylvania,31840,East,PROD-598119,Technology,Machines,Inkjet Printer,661.59,4,0.0,201.27
+CA-2016-100516,2019-01-02,2019-01-05,First Class,CUST-5344,Consumer,United States,Phoenix,Arizona,85172,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,4056.77,6,0.0,629.28
+CA-2017-100517,2017-07-13,2017-07-14,Same Day,CUST-7997,Consumer,United States,Philadelphia,Pennsylvania,20048,East,PROD-598119,Technology,Machines,Inkjet Printer,1703.83,4,0.2,-136.23
+CA-2018-100518,2018-04-03,2018-04-07,Same Day,CUST-9971,Consumer,United States,New York,New York,92292,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,742.48,2,0.3,-29.13
+CA-2016-100519,2018-12-27,2019-01-02,Second Class,CUST-9556,Consumer,United States,Philadelphia,Pennsylvania,70619,East,PROD-926655,Furniture,Chairs,Ergonomic Office Chair,2639.13,6,0.2,808.82
+CA-2017-100520,2018-04-20,2018-04-25,Second Class,CUST-4335,Corporate,United States,Phoenix,Arizona,47623,West,PROD-444595,Technology,Accessories,Mechanical Keyboard,2028.51,6,0.3,-115.44
+CA-2018-100521,2016-11-03,2016-11-06,Second Class,CUST-5023,Corporate,United States,San Diego,California,73620,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,3914.98,6,0.1,-408.66
+CA-2016-100522,2016-10-06,2016-10-06,First Class,CUST-5551,Home Office,United States,Dallas,Texas,33066,South,PROD-181520,Technology,Phones,Cordless Office Phone,48.99,1,0.0,-0.57
+CA-2017-100523,2017-09-02,2017-09-03,Same Day,CUST-6954,Home Office,United States,Los Angeles,California,62021,West,PROD-913145,Technology,Accessories,Wireless Mouse,458.92,1,0.0,51.94
+CA-2018-100524,2018-12-11,2018-12-15,Same Day,CUST-2478,Consumer,United States,San Jose,California,26027,West,PROD-391017,Office Supplies,Art,Highlighter Pack,2505.08,6,0.3,-173.34
+CA-2016-100525,2016-08-06,2016-08-08,Standard Class,CUST-5498,Corporate,United States,San Antonio,Texas,43332,South,PROD-181520,Technology,Phones,Cordless Office Phone,1514.45,5,0.0,-15.31
+CA-2017-100526,2018-05-17,2018-05-24,Standard Class,CUST-5550,Consumer,United States,Philadelphia,Pennsylvania,72288,East,PROD-598119,Technology,Machines,Inkjet Printer,518.09,1,0.0,157.96
+CA-2018-100527,2016-04-21,2016-04-24,First Class,CUST-7302,Corporate,United States,Philadelphia,Pennsylvania,99816,East,PROD-044240,Furniture,Storage,Plastic Storage Box,878.74,4,0.3,313.27
+CA-2016-100528,2017-06-07,2017-06-11,Second Class,CUST-4857,Corporate,United States,Houston,Texas,31001,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1968.0,6,0.0,-70.02
+CA-2017-100529,2016-06-13,2016-06-20,Same Day,CUST-7765,Corporate,United States,San Antonio,Texas,23159,South,PROD-000013,Furniture,Tables,Office Desk Table,815.02,3,0.2,58.65
+CA-2018-100530,2016-02-26,2016-02-26,Standard Class,CUST-8264,Home Office,United States,Chicago,Illinois,10403,Central,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,1388.31,3,0.0,-146.2
+CA-2016-100531,2018-11-23,2018-11-25,Same Day,CUST-6233,Corporate,United States,San Diego,California,27499,West,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,342.17,3,0.3,7.03
+CA-2017-100532,2018-03-16,2018-03-22,Standard Class,CUST-1339,Consumer,United States,Dallas,Texas,94817,South,PROD-913145,Technology,Accessories,Wireless Mouse,585.44,4,0.1,-99.6
+CA-2018-100533,2018-05-28,2018-06-01,Standard Class,CUST-2459,Corporate,United States,Chicago,Illinois,84349,Central,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,1855.48,4,0.3,-239.16
+CA-2016-100534,2017-02-20,2017-02-23,First Class,CUST-5717,Home Office,United States,San Diego,California,60079,West,PROD-266564,Furniture,Furnishings,Desk Lamp,705.5,5,0.2,166.52
+CA-2017-100535,2017-01-22,2017-01-28,Standard Class,CUST-7693,Consumer,United States,New York,New York,48036,East,PROD-152224,Office Supplies,Paper,Premium Glossy Photo Paper,418.41,2,0.3,-62.16
+CA-2018-100536,2018-08-18,2018-08-20,First Class,CUST-7513,Home Office,United States,Houston,Texas,60265,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,80.75,1,0.0,-13.63
+CA-2016-100537,2017-04-25,2017-05-02,First Class,CUST-1745,Consumer,United States,Phoenix,Arizona,76131,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,1939.15,4,0.1,738.5
+CA-2017-100538,2016-03-25,2016-03-27,First Class,CUST-3783,Home Office,United States,San Diego,California,54456,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,1196.27,3,0.3,-137.48
+CA-2018-100539,2016-08-27,2016-09-01,Second Class,CUST-3095,Corporate,United States,Phoenix,Arizona,57263,West,PROD-391017,Office Supplies,Art,Highlighter Pack,2658.09,5,0.2,292.88
+CA-2016-100540,2018-06-11,2018-06-13,First Class,CUST-9049,Consumer,United States,Dallas,Texas,96169,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,221.68,2,0.1,-19.98
+CA-2017-100541,2018-08-21,2018-08-25,Standard Class,CUST-8653,Corporate,United States,Los Angeles,California,74868,West,PROD-293155,Furniture,Furnishings,Wall Clock,1893.69,6,0.3,181.4
+CA-2018-100542,2016-10-30,2016-10-31,First Class,CUST-2533,Consumer,United States,Phoenix,Arizona,33678,West,PROD-034706,Furniture,Storage,Mobile File Cart,3209.68,5,0.1,481.86
+CA-2016-100543,2016-01-09,2016-01-11,Same Day,CUST-2258,Consumer,United States,San Diego,California,98723,West,PROD-000013,Furniture,Tables,Office Desk Table,1639.93,3,0.0,59.86
+CA-2017-100544,2016-08-05,2016-08-10,Standard Class,CUST-1473,Consumer,United States,San Diego,California,96447,West,PROD-316180,Office Supplies,Storage,Mobile File Cart,2112.46,5,0.2,806.67
+CA-2018-100545,2018-07-16,2018-07-21,Standard Class,CUST-4463,Consumer,United States,Phoenix,Arizona,52358,West,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,289.88,1,0.1,-16.22
+CA-2016-100546,2018-03-27,2018-03-28,Second Class,CUST-4411,Consumer,United States,San Antonio,Texas,62742,South,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,169.64,1,0.3,40.97
+CA-2017-100547,2017-09-27,2017-09-29,First Class,CUST-2574,Corporate,United States,Dallas,Texas,36197,South,PROD-316180,Office Supplies,Storage,Mobile File Cart,611.64,4,0.3,-89.22
+CA-2018-100548,2018-05-15,2018-05-20,Standard Class,CUST-8112,Home Office,United States,San Antonio,Texas,22182,South,PROD-034706,Furniture,Storage,Mobile File Cart,1953.97,4,0.1,700.3
+CA-2016-100549,2018-12-15,2018-12-16,First Class,CUST-8671,Corporate,United States,Los Angeles,California,72601,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,3903.17,6,0.1,444.4
+CA-2017-100550,2017-08-28,2017-08-28,Second Class,CUST-1738,Home Office,United States,Los Angeles,California,76932,West,PROD-943888,Office Supplies,Storage,Plastic Storage Box,1697.22,4,0.2,22.53
+CA-2018-100551,2016-06-16,2016-06-16,Second Class,CUST-8583,Consumer,United States,Chicago,Illinois,61505,Central,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,1014.85,6,0.3,258.19
+CA-2016-100552,2018-07-10,2018-07-14,First Class,CUST-4066,Consumer,United States,Chicago,Illinois,20252,Central,PROD-245086,Technology,Machines,All-in-One Printer,1719.32,4,0.0,63.55
+CA-2017-100553,2016-01-28,2016-01-30,Same Day,CUST-8539,Home Office,United States,San Antonio,Texas,96208,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,2605.76,5,0.2,558.67
+CA-2018-100554,2018-03-19,2018-03-23,Second Class,CUST-3049,Consumer,United States,New York,New York,35008,East,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,154.2,1,0.1,29.27
+CA-2016-100555,2018-06-11,2018-06-14,Second Class,CUST-5930,Corporate,United States,Chicago,Illinois,72126,Central,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,1011.39,2,0.3,382.63
+CA-2017-100556,2018-08-23,2018-08-23,Same Day,CUST-4975,Consumer,United States,Phoenix,Arizona,84636,West,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,60.63,1,0.3,23.51
+CA-2018-100557,2018-10-12,2018-10-16,Second Class,CUST-8987,Corporate,United States,San Diego,California,77286,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,319.56,6,0.0,17.0
+CA-2016-100558,2017-10-08,2017-10-09,First Class,CUST-7834,Corporate,United States,Los Angeles,California,74852,West,PROD-598119,Technology,Machines,Inkjet Printer,1899.74,6,0.1,-51.66
+CA-2017-100559,2017-01-28,2017-02-04,First Class,CUST-8178,Consumer,United States,Dallas,Texas,38796,South,PROD-598119,Technology,Machines,Inkjet Printer,989.97,2,0.3,372.11
+CA-2018-100560,2018-01-07,2018-01-14,Standard Class,CUST-4394,Corporate,United States,Los Angeles,California,97432,West,PROD-608919,Office Supplies,Paper,A4 Printer Paper 500 sheets,180.98,2,0.3,-25.24
+CA-2016-100561,2018-05-01,2018-05-08,First Class,CUST-4845,Consumer,United States,Dallas,Texas,16166,South,PROD-344928,Furniture,Tables,Adjustable Standing Desk,1466.53,3,0.1,435.22
+CA-2017-100562,2018-10-28,2018-10-28,Second Class,CUST-6533,Corporate,United States,Los Angeles,California,90945,West,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,671.9,4,0.2,182.04
+CA-2018-100563,2016-04-05,2016-04-09,Standard Class,CUST-9444,Home Office,United States,Los Angeles,California,16608,West,PROD-943888,Office Supplies,Storage,Plastic Storage Box,626.41,1,0.0,184.27
+CA-2016-100564,2016-03-26,2016-03-27,Standard Class,CUST-2934,Consumer,United States,Philadelphia,Pennsylvania,30582,East,PROD-598119,Technology,Machines,Inkjet Printer,2006.1,5,0.0,-215.5
+CA-2017-100565,2018-01-14,2018-01-19,Standard Class,CUST-3014,Consumer,United States,San Diego,California,64493,West,PROD-244766,Furniture,Chairs,Executive Leather Chair,629.03,3,0.1,-93.64
+CA-2018-100566,2018-02-01,2018-02-07,First Class,CUST-5021,Consumer,United States,Dallas,Texas,65275,South,PROD-244766,Furniture,Chairs,Executive Leather Chair,2057.51,4,0.3,763.55
+CA-2016-100567,2018-11-23,2018-11-28,Second Class,CUST-8251,Consumer,United States,New York,New York,77809,East,PROD-132522,Furniture,Bookcases,Sauder Heritage Bookcase,875.64,3,0.1,52.93
+CA-2017-100568,2018-03-16,2018-03-16,Standard Class,CUST-1947,Home Office,United States,Dallas,Texas,48761,South,PROD-316180,Office Supplies,Storage,Mobile File Cart,2858.13,6,0.2,-558.07
+CA-2018-100569,2017-07-26,2017-07-28,Same Day,CUST-8310,Home Office,United States,Houston,Texas,81358,South,PROD-844518,Technology,Copiers,Commercial Copier 3000,1763.54,6,0.1,579.47
+CA-2016-100570,2016-06-21,2016-06-21,First Class,CUST-7389,Home Office,United States,Chicago,Illinois,78219,Central,PROD-245086,Technology,Machines,All-in-One Printer,329.42,1,0.2,37.16
+CA-2017-100571,2016-11-23,2016-11-23,Second Class,CUST-9846,Home Office,United States,Phoenix,Arizona,41632,West,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,464.01,5,0.0,141.5
+CA-2018-100572,2017-06-15,2017-06-20,Second Class,CUST-1782,Home Office,United States,Los Angeles,California,68816,West,PROD-173509,Office Supplies,Appliances,Office Shredder,988.16,4,0.1,279.88
+CA-2016-100573,2018-12-28,2018-12-31,First Class,CUST-5902,Corporate,United States,San Jose,California,98137,West,PROD-728041,Furniture,Furnishings,Picture Frame Set,968.97,6,0.2,106.46
+CA-2017-100574,2017-01-29,2017-02-03,Same Day,CUST-2605,Consumer,United States,San Antonio,Texas,64008,South,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,1991.82,4,0.3,-141.68
+CA-2018-100575,2016-06-08,2016-06-13,Same Day,CUST-9502,Corporate,United States,Phoenix,Arizona,86585,West,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,1547.75,4,0.3,369.96
+CA-2016-100576,2018-05-03,2018-05-05,Standard Class,CUST-9286,Consumer,United States,San Diego,California,69993,West,PROD-044240,Furniture,Storage,Plastic Storage Box,731.01,6,0.3,-131.9
+CA-2017-100577,2016-11-17,2016-11-22,Second Class,CUST-7694,Consumer,United States,Los Angeles,California,58442,West,PROD-245086,Technology,Machines,All-in-One Printer,507.51,5,0.2,-8.65
+CA-2018-100578,2018-02-05,2018-02-09,First Class,CUST-8961,Consumer,United States,Chicago,Illinois,28630,Central,PROD-844518,Technology,Copiers,Commercial Copier 3000,1921.86,3,0.1,-173.26
+CA-2016-100579,2018-09-28,2018-09-28,Second Class,CUST-9970,Corporate,United States,Los Angeles,California,15856,West,PROD-316180,Office Supplies,Storage,Mobile File Cart,1458.55,5,0.2,392.07
+CA-2017-100580,2018-08-31,2018-09-02,Standard Class,CUST-9270,Home Office,United States,San Diego,California,68973,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,1106.9,6,0.3,35.8
+CA-2018-100581,2018-03-20,2018-03-25,Second Class,CUST-8259,Home Office,United States,Phoenix,Arizona,94661,West,PROD-472516,Furniture,Chairs,Mesh Task Chair,367.79,1,0.2,50.25
+CA-2016-100582,2016-09-10,2016-09-11,Standard Class,CUST-9877,Home Office,United States,New York,New York,84743,East,PROD-444595,Technology,Accessories,Mechanical Keyboard,3590.04,5,0.0,699.89
+CA-2017-100583,2018-12-25,2018-12-27,Second Class,CUST-5504,Consumer,United States,Houston,Texas,85963,South,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,1324.88,4,0.3,420.23
+CA-2018-100584,2016-02-17,2016-02-22,Same Day,CUST-3957,Corporate,United States,New York,New York,79193,East,PROD-316180,Office Supplies,Storage,Mobile File Cart,96.14,1,0.0,12.02
+CA-2016-100585,2017-08-07,2017-08-09,Standard Class,CUST-5187,Consumer,United States,Chicago,Illinois,50212,Central,PROD-631264,Office Supplies,Labels,Address Labels 1000 pack,394.81,1,0.2,-35.98
+CA-2017-100586,2016-04-29,2016-05-03,Same Day,CUST-2617,Corporate,United States,Chicago,Illinois,64109,Central,PROD-391017,Office Supplies,Art,Highlighter Pack,41.62,1,0.1,10.46
+CA-2018-100587,2017-04-29,2017-05-06,Same Day,CUST-2885,Corporate,United States,New York,New York,51724,East,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,272.94,1,0.3,49.16
+CA-2016-100588,2016-02-08,2016-02-12,Second Class,CUST-5035,Home Office,United States,Chicago,Illinois,49926,Central,PROD-844518,Technology,Copiers,Commercial Copier 3000,610.01,1,0.1,164.54
+CA-2017-100589,2016-10-18,2016-10-23,Standard Class,CUST-5016,Home Office,United States,San Antonio,Texas,82764,South,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,2461.08,4,0.2,472.12
+CA-2018-100590,2016-12-08,2016-12-08,Second Class,CUST-8900,Corporate,United States,San Jose,California,42884,West,PROD-844518,Technology,Copiers,Commercial Copier 3000,835.87,6,0.2,-144.36
+CA-2016-100591,2018-12-29,2018-12-30,First Class,CUST-2469,Corporate,United States,Los Angeles,California,28304,West,PROD-598119,Technology,Machines,Inkjet Printer,784.49,2,0.2,259.16
+CA-2017-100592,2017-12-02,2017-12-06,Same Day,CUST-5473,Consumer,United States,Philadelphia,Pennsylvania,54778,East,PROD-728041,Furniture,Furnishings,Picture Frame Set,47.57,3,0.1,8.94
+CA-2018-100593,2016-01-05,2016-01-12,Second Class,CUST-1156,Home Office,United States,Chicago,Illinois,64154,Central,PROD-844518,Technology,Copiers,Commercial Copier 3000,347.57,5,0.0,42.82
+CA-2016-100594,2018-06-30,2018-07-01,First Class,CUST-7166,Home Office,United States,Philadelphia,Pennsylvania,60692,East,PROD-076447,Furniture,Bookcases,Atlantic Metal Bookcase,1078.32,4,0.1,71.97
+CA-2017-100595,2017-03-29,2017-03-29,First Class,CUST-6862,Consumer,United States,Los Angeles,California,90405,West,PROD-245086,Technology,Machines,All-in-One Printer,1254.71,2,0.2,-223.24
+CA-2018-100596,2018-10-06,2018-10-09,Second Class,CUST-4212,Home Office,United States,San Antonio,Texas,24541,South,PROD-209576,Office Supplies,Appliances,Electric Pencil Sharpener,798.6,2,0.1,-128.4
+CA-2016-100597,2016-09-19,2016-09-20,Standard Class,CUST-5253,Home Office,United States,Houston,Texas,78561,South,PROD-245086,Technology,Machines,All-in-One Printer,112.22,6,0.2,23.39
+CA-2017-100598,2018-07-18,2018-07-18,Same Day,CUST-1849,Corporate,United States,San Antonio,Texas,63330,South,PROD-499462,Office Supplies,Binders,D-Ring Binder 3in,1169.48,4,0.0,386.26
+CA-2018-100599,2017-04-04,2017-04-04,First Class,CUST-7882,Home Office,United States,San Diego,California,51450,West,PROD-266564,Furniture,Furnishings,Desk Lamp,210.11,3,0.0,82.82
+CA-2016-100600,2017-04-07,2017-04-13,Second Class,CUST-5095,Consumer,United States,Chicago,Illinois,53152,Central,PROD-491151,Office Supplies,Binders,A4 2-Ring Binder,386.57,1,0.0,60.12
